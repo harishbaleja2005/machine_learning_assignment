@@ -1,0 +1,501 @@
+track_id,track_name,artist_name,genre,bpm,energy,danceability,loudness,liveness,valence,duration_s,acousticness,speechiness,popularity
+track_001,Song Title 1,Ariana Grande,dance pop,121,78,86,-16,62,33,143,8,18,88
+track_002,Song Title 2,Drake,pop,176,58,68,-4,61,88,291,73,7,95
+track_003,Song Title 3,BTS,latin,111,37,85,-12,27,31,261,58,20,78
+track_004,Song Title 4,Kendrick Lamar,rock,149,78,72,-13,52,39,188,45,39,66
+track_005,Song Title 5,Coldplay,dance pop,130,36,79,-11,26,72,286,62,29,74
+track_006,Song Title 6,Post Malone,r&b,139,33,52,-16,21,13,212,39,3,52
+track_007,Song Title 7,BTS,pop,167,50,73,-14,73,86,263,58,39,72
+track_008,Song Title 8,Bad Bunny,rock,102,43,67,-9,15,68,250,81,38,78
+track_009,Song Title 9,Ariana Grande,latin,114,79,52,-15,19,17,306,83,5,52
+track_010,Song Title 10,Justin Bieber,rock,162,64,74,-4,39,91,297,64,23,99
+track_011,Song Title 11,The Weeknd,pop,146,22,81,-6,37,21,212,44,27,80
+track_012,Song Title 12,Ariana Grande,indie,94,56,79,-15,20,40,156,29,44,77
+track_013,Song Title 13,Coldplay,indie,143,62,37,-15,38,87,209,59,37,66
+track_014,Song Title 14,Coldplay,rock,155,59,30,-9,70,43,263,71,14,71
+track_015,Song Title 15,Post Malone,hip hop,116,74,37,-11,44,91,142,9,33,78
+track_016,Song Title 16,Bad Bunny,r&b,143,58,58,-13,32,84,193,6,18,83
+track_017,Song Title 17,Drake,r&b,94,34,34,-16,51,85,276,29,42,59
+track_018,Song Title 18,Post Malone,rock,170,23,76,-9,43,58,209,58,37,87
+track_019,Song Title 19,Post Malone,dance pop,115,44,63,-14,74,88,252,17,20,83
+track_020,Song Title 20,The Weeknd,dance pop,145,32,94,-13,24,66,172,16,36,83
+track_021,Song Title 21,Dua Lipa,r&b,93,52,84,-14,5,35,218,3,41,84
+track_022,Song Title 22,Bad Bunny,r&b,138,35,72,-13,67,27,277,21,29,63
+track_023,Song Title 23,Ed Sheeran,indie,81,61,59,-11,71,47,224,64,2,62
+track_024,Song Title 24,Post Malone,hip hop,148,85,46,-12,8,90,301,36,43,80
+track_025,Song Title 25,Imagine Dragons,pop,133,74,55,-14,62,59,280,62,19,72
+track_026,Song Title 26,Olivia Rodrigo,dance pop,98,61,37,-9,29,17,131,42,41,59
+track_027,Song Title 27,Dua Lipa,r&b,70,53,76,-13,51,50,249,76,34,84
+track_028,Song Title 28,Ed Sheeran,indie,117,49,75,-5,42,15,151,42,13,75
+track_029,Song Title 29,Imagine Dragons,latin,190,32,62,-15,19,78,244,61,9,70
+track_030,Song Title 30,Bad Bunny,indie,107,32,30,-7,67,53,186,13,25,56
+track_031,Song Title 31,Taylor Swift,dance pop,179,37,48,-10,25,73,201,11,17,74
+track_032,Song Title 32,Imagine Dragons,dance pop,175,51,60,-6,61,38,136,54,5,77
+track_033,Song Title 33,Justin Bieber,indie,144,58,43,-15,57,37,248,16,39,68
+track_034,Song Title 34,Dua Lipa,pop,159,65,82,-18,50,20,243,8,28,67
+track_035,Song Title 35,BTS,rock,182,48,77,-12,18,74,145,59,10,89
+track_036,Song Title 36,Imagine Dragons,dance pop,72,81,91,-12,21,28,212,57,17,98
+track_037,Song Title 37,Billie Eilish,indie,168,81,93,-15,43,18,308,40,13,87
+track_038,Song Title 38,Taylor Swift,r&b,89,76,92,-6,13,36,201,59,32,81
+track_039,Song Title 39,Coldplay,indie,160,35,62,-5,10,43,253,2,25,64
+track_040,Song Title 40,Coldplay,hip hop,157,75,70,-16,27,53,242,76,15,72
+track_041,Song Title 41,Kendrick Lamar,rock,125,29,77,-11,63,77,141,10,26,71
+track_042,Song Title 42,Justin Bieber,latin,186,49,42,-14,50,91,255,44,35,67
+track_043,Song Title 43,Imagine Dragons,pop,115,44,60,-3,42,24,182,11,4,75
+track_044,Song Title 44,Imagine Dragons,latin,85,24,33,-9,18,60,204,79,25,60
+track_045,Song Title 45,Kendrick Lamar,rock,69,84,48,-12,66,22,262,80,43,69
+track_046,Song Title 46,Olivia Rodrigo,rock,156,68,42,-15,39,92,156,81,10,69
+track_047,Song Title 47,Olivia Rodrigo,rock,125,22,52,-15,23,58,269,2,27,59
+track_048,Song Title 48,Kendrick Lamar,latin,86,64,30,-11,34,79,274,50,21,73
+track_049,Song Title 49,Olivia Rodrigo,r&b,134,33,83,-5,29,65,263,12,41,65
+track_050,Song Title 50,The Weeknd,rock,65,49,44,-11,44,85,226,23,11,69
+track_051,Song Title 51,Imagine Dragons,indie,76,87,94,-17,18,60,134,18,20,89
+track_052,Song Title 52,Ariana Grande,latin,154,37,44,-5,30,46,186,62,4,71
+track_053,Song Title 53,Drake,rock,110,81,50,-17,26,26,285,62,25,57
+track_054,Song Title 54,Billie Eilish,indie,98,56,48,-16,52,67,207,38,6,57
+track_055,Song Title 55,The Weeknd,r&b,142,44,89,-4,55,38,198,67,4,87
+track_056,Song Title 56,Bad Bunny,hip hop,109,67,62,-7,7,42,247,38,28,60
+track_057,Song Title 57,The Weeknd,r&b,137,84,78,-7,46,69,249,67,17,99
+track_058,Song Title 58,Ariana Grande,rock,90,72,64,-16,23,64,188,61,16,76
+track_059,Song Title 59,Bad Bunny,latin,111,92,73,-18,32,19,162,1,36,86
+track_060,Song Title 60,Billie Eilish,dance pop,185,34,40,-4,49,56,191,45,13,57
+track_061,Song Title 61,Ariana Grande,rock,120,68,75,-5,67,32,179,28,42,77
+track_062,Song Title 62,Ed Sheeran,dance pop,158,87,38,-16,23,94,241,21,27,53
+track_063,Song Title 63,Drake,indie,171,31,32,-13,51,30,148,13,35,45
+track_064,Song Title 64,Billie Eilish,hip hop,127,78,55,-11,18,22,252,27,24,68
+track_065,Song Title 65,Imagine Dragons,pop,112,56,77,-6,42,42,176,7,32,64
+track_066,Song Title 66,Olivia Rodrigo,r&b,125,80,57,-7,57,33,296,22,21,72
+track_067,Song Title 67,Ed Sheeran,hip hop,145,62,55,-5,65,20,162,74,13,54
+track_068,Song Title 68,Justin Bieber,rock,90,89,54,-9,40,26,270,53,24,71
+track_069,Song Title 69,Billie Eilish,dance pop,100,58,41,-13,44,77,213,79,5,77
+track_070,Song Title 70,Justin Bieber,r&b,65,75,34,-14,34,56,264,79,24,64
+track_071,Song Title 71,Bad Bunny,dance pop,72,82,77,-4,13,34,208,4,2,98
+track_072,Song Title 72,Ed Sheeran,latin,177,65,66,-15,68,82,143,23,26,83
+track_073,Song Title 73,Drake,dance pop,163,30,73,-3,37,30,276,70,3,84
+track_074,Song Title 74,Imagine Dragons,latin,111,81,44,-16,56,93,257,84,31,67
+track_075,Song Title 75,Kendrick Lamar,indie,191,96,72,-3,18,92,183,84,4,89
+track_076,Song Title 76,Imagine Dragons,r&b,120,44,77,-6,57,92,277,76,22,87
+track_077,Song Title 77,Ariana Grande,r&b,78,90,75,-15,63,21,158,33,26,63
+track_078,Song Title 78,Imagine Dragons,pop,92,71,72,-5,45,46,153,28,21,86
+track_079,Song Title 79,BTS,rock,142,23,50,-12,72,51,211,8,23,58
+track_080,Song Title 80,Post Malone,latin,194,78,52,-18,72,26,192,1,22,75
+track_081,Song Title 81,Kendrick Lamar,pop,173,91,76,-12,12,57,234,37,34,89
+track_082,Song Title 82,The Weeknd,dance pop,78,39,44,-18,6,37,186,63,39,64
+track_083,Song Title 83,Olivia Rodrigo,dance pop,120,82,54,-17,45,50,265,22,16,64
+track_084,Song Title 84,Taylor Swift,pop,179,73,65,-4,59,56,191,70,16,90
+track_085,Song Title 85,Drake,r&b,71,93,80,-15,20,27,286,21,26,91
+track_086,Song Title 86,Ed Sheeran,dance pop,67,76,44,-18,66,87,146,35,22,70
+track_087,Song Title 87,Post Malone,indie,175,60,50,-8,52,80,195,79,25,69
+track_088,Song Title 88,Drake,indie,171,22,42,-7,34,22,135,5,6,51
+track_089,Song Title 89,Ed Sheeran,pop,82,25,48,-8,16,91,187,60,7,79
+track_090,Song Title 90,Olivia Rodrigo,latin,102,24,63,-4,39,22,198,46,44,88
+track_091,Song Title 91,Dua Lipa,latin,179,24,81,-8,15,40,285,50,24,65
+track_092,Song Title 92,Dua Lipa,pop,79,73,56,-10,68,11,191,48,5,59
+track_093,Song Title 93,Justin Bieber,latin,183,66,58,-7,54,25,298,6,28,79
+track_094,Song Title 94,Drake,r&b,92,68,57,-13,25,18,211,56,19,60
+track_095,Song Title 95,Dua Lipa,r&b,103,28,64,-6,73,82,298,59,22,83
+track_096,Song Title 96,BTS,latin,81,39,37,-18,52,47,306,29,29,58
+track_097,Song Title 97,Kendrick Lamar,indie,150,80,45,-18,24,84,306,71,36,71
+track_098,Song Title 98,Ed Sheeran,latin,190,54,65,-13,71,63,200,77,23,76
+track_099,Song Title 99,Justin Bieber,r&b,108,69,59,-15,48,65,260,18,41,76
+track_100,Song Title 100,Imagine Dragons,hip hop,89,81,47,-15,37,54,139,2,24,68
+track_101,Song Title 101,Ed Sheeran,rock,77,36,31,-3,65,43,227,8,4,47
+track_102,Song Title 102,Justin Bieber,dance pop,89,22,78,-4,13,18,218,75,41,72
+track_103,Song Title 103,Olivia Rodrigo,hip hop,132,51,33,-8,72,17,164,54,11,70
+track_104,Song Title 104,Drake,latin,131,32,36,-4,39,16,131,38,26,45
+track_105,Song Title 105,Olivia Rodrigo,indie,173,92,68,-13,69,45,253,48,9,71
+track_106,Song Title 106,Kendrick Lamar,pop,175,87,42,-4,12,27,153,27,12,76
+track_107,Song Title 107,Kendrick Lamar,latin,175,33,60,-5,49,12,203,20,6,65
+track_108,Song Title 108,Post Malone,indie,98,30,92,-7,51,37,295,12,38,81
+track_109,Song Title 109,Olivia Rodrigo,rock,175,75,85,-8,44,79,151,43,39,84
+track_110,Song Title 110,Ariana Grande,latin,72,86,71,-12,58,53,283,61,30,90
+track_111,Song Title 111,Imagine Dragons,r&b,177,48,90,-10,50,30,300,31,6,78
+track_112,Song Title 112,Billie Eilish,pop,147,28,71,-9,51,37,168,61,10,74
+track_113,Song Title 113,Olivia Rodrigo,indie,106,86,85,-3,19,63,286,74,3,96
+track_114,Song Title 114,Post Malone,indie,165,44,65,-14,23,63,149,67,2,72
+track_115,Song Title 115,Bad Bunny,indie,70,95,36,-10,30,74,170,35,41,80
+track_116,Song Title 116,BTS,rock,90,61,83,-15,56,30,277,15,31,76
+track_117,Song Title 117,Ed Sheeran,latin,128,28,30,-6,26,22,237,16,12,45
+track_118,Song Title 118,Kendrick Lamar,rock,123,59,73,-9,25,66,276,13,29,89
+track_119,Song Title 119,Bad Bunny,dance pop,173,44,74,-17,55,58,213,35,13,77
+track_120,Song Title 120,Post Malone,dance pop,185,24,76,-16,42,63,240,75,40,52
+track_121,Song Title 121,Justin Bieber,latin,97,30,42,-6,24,19,195,59,27,53
+track_122,Song Title 122,Billie Eilish,r&b,85,78,51,-8,33,62,287,21,14,84
+track_123,Song Title 123,Imagine Dragons,rock,134,57,50,-18,55,53,182,54,9,49
+track_124,Song Title 124,Imagine Dragons,pop,176,91,38,-5,8,56,163,75,29,83
+track_125,Song Title 125,Imagine Dragons,indie,68,24,55,-5,59,62,279,30,31,68
+track_126,Song Title 126,BTS,indie,158,67,38,-13,32,83,196,48,10,80
+track_127,Song Title 127,Billie Eilish,latin,139,37,44,-6,8,55,263,35,40,66
+track_128,Song Title 128,BTS,r&b,126,89,39,-13,26,22,156,38,32,59
+track_129,Song Title 129,Kendrick Lamar,dance pop,158,56,71,-18,49,46,139,31,22,72
+track_130,Song Title 130,BTS,dance pop,159,79,53,-8,71,33,202,78,35,72
+track_131,Song Title 131,Taylor Swift,indie,119,67,78,-6,70,11,225,24,32,71
+track_132,Song Title 132,Billie Eilish,latin,95,96,55,-16,38,90,177,49,26,97
+track_133,Song Title 133,Ariana Grande,rock,104,47,66,-14,59,23,199,32,13,57
+track_134,Song Title 134,Billie Eilish,dance pop,100,88,79,-16,5,19,229,55,2,58
+track_135,Song Title 135,Post Malone,rock,70,96,53,-9,42,44,188,79,23,90
+track_136,Song Title 136,Taylor Swift,r&b,130,59,48,-16,10,34,131,58,41,57
+track_137,Song Title 137,Imagine Dragons,dance pop,139,64,89,-5,29,12,286,3,38,79
+track_138,Song Title 138,Post Malone,dance pop,68,81,68,-9,21,26,194,80,2,74
+track_139,Song Title 139,Post Malone,hip hop,143,77,47,-16,65,21,212,69,2,58
+track_140,Song Title 140,Kendrick Lamar,dance pop,182,86,48,-14,16,63,283,10,43,67
+track_141,Song Title 141,Coldplay,pop,177,75,65,-6,10,33,139,83,43,70
+track_142,Song Title 142,The Weeknd,latin,158,59,84,-3,31,38,182,25,22,84
+track_143,Song Title 143,Taylor Swift,latin,126,59,76,-14,12,52,208,68,16,72
+track_144,Song Title 144,Post Malone,rock,143,96,78,-15,69,34,188,61,18,86
+track_145,Song Title 145,The Weeknd,r&b,90,52,62,-18,61,69,279,29,23,73
+track_146,Song Title 146,The Weeknd,dance pop,108,25,50,-14,44,74,308,19,39,55
+track_147,Song Title 147,Taylor Swift,pop,134,38,51,-9,18,93,177,43,36,73
+track_148,Song Title 148,Coldplay,rock,182,59,77,-3,39,37,278,66,17,78
+track_149,Song Title 149,Bad Bunny,hip hop,132,78,66,-14,52,25,252,74,9,64
+track_150,Song Title 150,Justin Bieber,rock,83,78,44,-15,60,56,151,61,18,73
+track_151,Song Title 151,Ariana Grande,rock,84,67,64,-13,53,90,229,43,18,78
+track_152,Song Title 152,Justin Bieber,dance pop,177,60,61,-9,17,67,227,25,27,73
+track_153,Song Title 153,Billie Eilish,hip hop,111,32,40,-15,65,85,287,20,14,55
+track_154,Song Title 154,Imagine Dragons,rock,65,64,39,-5,53,36,154,48,18,59
+track_155,Song Title 155,Ariana Grande,pop,154,72,86,-12,50,62,157,83,39,99
+track_156,Song Title 156,Billie Eilish,pop,128,61,54,-12,66,51,242,24,18,72
+track_157,Song Title 157,Post Malone,latin,102,82,31,-17,12,68,174,11,15,56
+track_158,Song Title 158,Imagine Dragons,hip hop,101,46,93,-16,47,56,197,55,7,80
+track_159,Song Title 159,Ed Sheeran,hip hop,190,57,64,-18,24,43,136,28,36,75
+track_160,Song Title 160,Taylor Swift,latin,164,79,36,-11,43,46,178,69,15,68
+track_161,Song Title 161,Ariana Grande,rock,141,26,47,-10,53,15,266,63,9,67
+track_162,Song Title 162,Ariana Grande,hip hop,67,24,71,-15,68,16,293,59,16,48
+track_163,Song Title 163,Olivia Rodrigo,pop,74,64,68,-13,66,34,212,5,28,56
+track_164,Song Title 164,Post Malone,pop,69,77,70,-10,58,42,258,51,14,80
+track_165,Song Title 165,Bad Bunny,dance pop,194,50,53,-13,13,64,267,21,32,70
+track_166,Song Title 166,The Weeknd,hip hop,77,42,89,-5,41,67,293,12,36,58
+track_167,Song Title 167,Imagine Dragons,rock,194,61,75,-7,53,16,202,50,7,70
+track_168,Song Title 168,Post Malone,latin,148,29,48,-7,45,66,175,4,6,59
+track_169,Song Title 169,Dua Lipa,latin,129,51,71,-7,21,21,235,42,23,61
+track_170,Song Title 170,Coldplay,rock,127,72,61,-10,25,25,289,84,24,63
+track_171,Song Title 171,The Weeknd,r&b,165,49,68,-4,55,89,161,38,26,88
+track_172,Song Title 172,Taylor Swift,indie,137,58,65,-15,63,52,135,25,35,63
+track_173,Song Title 173,The Weeknd,dance pop,81,50,65,-11,43,86,305,14,27,69
+track_174,Song Title 174,Bad Bunny,latin,73,21,32,-10,59,16,295,75,6,37
+track_175,Song Title 175,Kendrick Lamar,hip hop,102,97,37,-15,45,60,274,32,27,80
+track_176,Song Title 176,Olivia Rodrigo,dance pop,158,96,70,-14,43,82,203,11,21,89
+track_177,Song Title 177,The Weeknd,hip hop,159,31,42,-5,17,41,243,61,7,43
+track_178,Song Title 178,Taylor Swift,r&b,113,58,78,-11,68,84,156,18,7,75
+track_179,Song Title 179,Bad Bunny,pop,133,85,89,-7,15,17,183,27,19,89
+track_180,Song Title 180,Justin Bieber,dance pop,126,32,31,-9,23,81,307,55,5,72
+track_181,Song Title 181,Ariana Grande,latin,142,65,89,-5,15,54,292,54,18,94
+track_182,Song Title 182,Kendrick Lamar,dance pop,181,46,34,-13,50,68,214,82,15,58
+track_183,Song Title 183,Olivia Rodrigo,dance pop,184,36,73,-7,49,13,256,75,15,53
+track_184,Song Title 184,Ariana Grande,dance pop,140,79,56,-12,5,76,282,21,14,84
+track_185,Song Title 185,Coldplay,indie,99,83,61,-16,44,38,285,44,8,69
+track_186,Song Title 186,Billie Eilish,dance pop,65,54,50,-12,23,38,240,5,16,65
+track_187,Song Title 187,Kendrick Lamar,hip hop,104,89,37,-7,65,37,144,41,20,69
+track_188,Song Title 188,Kendrick Lamar,pop,128,49,79,-5,16,86,261,59,44,75
+track_189,Song Title 189,Justin Bieber,r&b,124,90,73,-11,65,88,222,54,36,91
+track_190,Song Title 190,Justin Bieber,rock,128,93,87,-9,37,53,252,74,18,92
+track_191,Song Title 191,Imagine Dragons,dance pop,157,82,32,-3,49,13,202,22,36,63
+track_192,Song Title 192,BTS,latin,136,47,31,-3,73,18,284,83,20,64
+track_193,Song Title 193,The Weeknd,dance pop,75,79,73,-13,12,14,283,65,21,62
+track_194,Song Title 194,Kendrick Lamar,latin,169,56,31,-4,29,65,276,64,37,66
+track_195,Song Title 195,Ariana Grande,hip hop,78,41,64,-9,50,93,221,71,36,77
+track_196,Song Title 196,Taylor Swift,latin,124,87,59,-10,34,59,146,4,33,65
+track_197,Song Title 197,Drake,rock,94,39,37,-6,51,84,172,65,41,68
+track_198,Song Title 198,BTS,pop,99,87,51,-13,53,24,250,15,25,75
+track_199,Song Title 199,Drake,latin,69,83,73,-7,51,41,170,76,18,80
+track_200,Song Title 200,Olivia Rodrigo,latin,147,36,87,-10,22,37,299,22,8,75
+track_201,Song Title 201,Bad Bunny,pop,187,31,65,-6,70,31,307,47,44,73
+track_202,Song Title 202,Ariana Grande,rock,142,41,60,-15,72,26,297,81,2,58
+track_203,Song Title 203,Ariana Grande,dance pop,126,36,76,-11,37,68,168,46,36,73
+track_204,Song Title 204,BTS,latin,153,29,84,-8,40,80,242,14,33,71
+track_205,Song Title 205,Kendrick Lamar,pop,106,84,91,-15,23,66,280,50,37,87
+track_206,Song Title 206,Coldplay,hip hop,153,41,59,-17,32,35,240,20,14,59
+track_207,Song Title 207,BTS,pop,104,69,84,-9,44,34,309,50,7,85
+track_208,Song Title 208,Drake,hip hop,136,33,45,-8,19,19,176,33,15,63
+track_209,Song Title 209,BTS,rock,103,83,41,-10,45,54,192,59,38,77
+track_210,Song Title 210,Ariana Grande,dance pop,168,66,46,-14,43,92,239,43,16,68
+track_211,Song Title 211,Coldplay,pop,78,48,45,-15,6,20,198,79,5,39
+track_212,Song Title 212,The Weeknd,r&b,96,95,41,-17,67,86,172,12,41,79
+track_213,Song Title 213,Dua Lipa,r&b,189,55,37,-18,33,62,305,40,17,63
+track_214,Song Title 214,Imagine Dragons,indie,161,71,32,-8,70,81,163,20,29,66
+track_215,Song Title 215,Ed Sheeran,latin,87,95,45,-12,55,77,169,38,17,81
+track_216,Song Title 216,Justin Bieber,rock,127,26,59,-13,14,37,190,3,5,50
+track_217,Song Title 217,BTS,pop,117,48,52,-4,18,84,307,28,27,85
+track_218,Song Title 218,Olivia Rodrigo,r&b,168,30,34,-4,55,74,191,56,29,63
+track_219,Song Title 219,Billie Eilish,latin,168,52,94,-17,43,58,187,13,33,72
+track_220,Song Title 220,Bad Bunny,r&b,103,25,59,-3,32,56,290,77,3,66
+track_221,Song Title 221,Dua Lipa,pop,131,51,50,-11,7,61,204,66,32,66
+track_222,Song Title 222,Imagine Dragons,hip hop,106,70,51,-8,74,63,145,37,4,75
+track_223,Song Title 223,Imagine Dragons,pop,79,94,61,-15,31,69,211,49,9,79
+track_224,Song Title 224,Imagine Dragons,indie,175,77,62,-11,6,66,223,66,25,75
+track_225,Song Title 225,Imagine Dragons,pop,97,45,45,-4,42,56,177,36,16,71
+track_226,Song Title 226,Drake,pop,102,65,67,-3,7,40,267,54,44,79
+track_227,Song Title 227,Olivia Rodrigo,indie,161,48,43,-12,20,55,211,26,32,58
+track_228,Song Title 228,Olivia Rodrigo,rock,97,23,65,-14,44,35,167,75,10,55
+track_229,Song Title 229,Coldplay,pop,150,32,52,-9,6,14,256,72,40,64
+track_230,Song Title 230,Justin Bieber,indie,130,58,31,-9,45,93,148,40,3,73
+track_231,Song Title 231,Ariana Grande,latin,74,34,94,-7,16,61,293,43,9,83
+track_232,Song Title 232,Imagine Dragons,hip hop,69,48,81,-11,39,84,192,22,8,89
+track_233,Song Title 233,Billie Eilish,hip hop,187,48,91,-3,69,63,206,20,40,72
+track_234,Song Title 234,Ariana Grande,pop,138,94,52,-5,59,42,303,8,43,74
+track_235,Song Title 235,Olivia Rodrigo,rock,161,51,55,-10,49,59,260,29,17,61
+track_236,Song Title 236,Taylor Swift,rock,182,21,84,-14,66,47,231,40,36,88
+track_237,Song Title 237,Taylor Swift,latin,102,66,35,-9,53,36,194,30,31,69
+track_238,Song Title 238,Billie Eilish,pop,111,97,64,-14,29,24,249,81,11,74
+track_239,Song Title 239,Coldplay,hip hop,173,41,51,-17,27,70,220,84,39,70
+track_240,Song Title 240,Olivia Rodrigo,rock,79,94,72,-14,28,30,137,55,19,87
+track_241,Song Title 241,Billie Eilish,pop,69,46,44,-16,42,55,308,16,6,69
+track_242,Song Title 242,Drake,r&b,111,86,89,-12,32,78,202,46,30,98
+track_243,Song Title 243,BTS,rock,132,75,41,-9,25,15,263,62,40,62
+track_244,Song Title 244,Billie Eilish,indie,140,40,78,-14,58,47,236,7,35,68
+track_245,Song Title 245,The Weeknd,r&b,194,66,71,-11,22,71,218,80,44,72
+track_246,Song Title 246,Ariana Grande,rock,159,78,67,-18,40,71,168,45,24,80
+track_247,Song Title 247,Dua Lipa,hip hop,179,25,74,-16,49,91,242,59,6,71
+track_248,Song Title 248,Post Malone,dance pop,100,38,64,-16,57,87,157,56,31,68
+track_249,Song Title 249,Coldplay,r&b,90,76,59,-10,34,83,226,48,7,77
+track_250,Song Title 250,Billie Eilish,latin,107,88,59,-14,64,55,166,27,5,87
+track_251,Song Title 251,Olivia Rodrigo,latin,91,22,35,-3,36,22,266,53,30,64
+track_252,Song Title 252,Bad Bunny,hip hop,133,20,36,-7,71,12,211,73,24,67
+track_253,Song Title 253,Taylor Swift,rock,75,77,81,-10,71,15,185,35,7,82
+track_254,Song Title 254,The Weeknd,pop,138,57,43,-6,32,17,214,51,33,64
+track_255,Song Title 255,Justin Bieber,rock,168,34,44,-10,48,53,131,84,43,62
+track_256,Song Title 256,Imagine Dragons,hip hop,102,53,50,-18,45,42,187,37,19,53
+track_257,Song Title 257,Post Malone,latin,87,80,64,-17,67,90,236,81,16,69
+track_258,Song Title 258,Kendrick Lamar,rock,111,54,31,-14,27,84,252,57,41,68
+track_259,Song Title 259,Coldplay,latin,154,83,64,-15,52,86,297,8,33,73
+track_260,Song Title 260,Dua Lipa,r&b,110,44,49,-4,36,59,293,79,10,73
+track_261,Song Title 261,Post Malone,pop,171,43,39,-9,61,20,243,20,38,67
+track_262,Song Title 262,Billie Eilish,r&b,168,31,54,-10,37,37,236,53,11,57
+track_263,Song Title 263,Drake,latin,175,37,54,-12,28,79,166,12,21,85
+track_264,Song Title 264,Taylor Swift,latin,168,34,83,-13,43,50,208,49,7,65
+track_265,Song Title 265,Olivia Rodrigo,dance pop,124,46,62,-12,38,25,221,17,4,73
+track_266,Song Title 266,Taylor Swift,dance pop,164,91,65,-18,60,77,147,64,43,82
+track_267,Song Title 267,Justin Bieber,r&b,132,79,43,-18,32,57,227,42,12,75
+track_268,Song Title 268,Drake,indie,184,65,94,-11,41,65,192,29,44,78
+track_269,Song Title 269,Imagine Dragons,r&b,101,36,83,-6,11,73,279,19,18,99
+track_270,Song Title 270,Olivia Rodrigo,dance pop,136,72,81,-6,72,68,268,11,33,86
+track_271,Song Title 271,Ariana Grande,latin,191,27,32,-17,41,71,133,50,5,60
+track_272,Song Title 272,Ed Sheeran,hip hop,170,46,70,-7,60,85,264,71,5,92
+track_273,Song Title 273,The Weeknd,r&b,156,65,35,-9,69,20,190,58,18,56
+track_274,Song Title 274,Taylor Swift,latin,95,69,54,-8,69,27,236,34,42,77
+track_275,Song Title 275,Bad Bunny,hip hop,186,90,42,-10,51,28,183,20,20,63
+track_276,Song Title 276,Taylor Swift,hip hop,115,22,37,-12,24,64,217,50,6,69
+track_277,Song Title 277,Post Malone,dance pop,93,83,50,-13,23,91,197,10,33,72
+track_278,Song Title 278,Taylor Swift,r&b,104,63,54,-18,33,35,258,32,23,63
+track_279,Song Title 279,Coldplay,rock,105,72,74,-18,64,15,184,52,7,71
+track_280,Song Title 280,Taylor Swift,pop,75,43,89,-17,22,13,132,15,36,75
+track_281,Song Title 281,Ed Sheeran,dance pop,65,79,41,-13,39,38,295,84,23,81
+track_282,Song Title 282,Ed Sheeran,dance pop,110,22,61,-5,47,68,250,3,2,68
+track_283,Song Title 283,Imagine Dragons,rock,165,39,42,-13,15,26,258,37,21,65
+track_284,Song Title 284,Dua Lipa,pop,154,65,60,-17,53,52,231,40,23,85
+track_285,Song Title 285,Ariana Grande,latin,174,34,49,-18,42,89,167,72,12,65
+track_286,Song Title 286,Bad Bunny,indie,121,44,47,-9,68,75,214,40,14,65
+track_287,Song Title 287,Taylor Swift,r&b,65,97,89,-14,73,43,286,56,43,72
+track_288,Song Title 288,Taylor Swift,indie,127,90,92,-14,12,17,262,23,4,97
+track_289,Song Title 289,The Weeknd,latin,119,36,35,-17,38,22,221,11,10,48
+track_290,Song Title 290,Olivia Rodrigo,dance pop,179,28,61,-13,52,17,150,64,13,51
+track_291,Song Title 291,Ed Sheeran,pop,117,57,72,-3,60,74,238,8,24,74
+track_292,Song Title 292,Bad Bunny,dance pop,121,67,31,-10,69,52,176,56,15,56
+track_293,Song Title 293,Imagine Dragons,hip hop,181,79,89,-17,35,48,213,60,34,89
+track_294,Song Title 294,Justin Bieber,dance pop,99,82,52,-9,8,90,212,10,19,89
+track_295,Song Title 295,Dua Lipa,dance pop,127,21,60,-17,54,68,164,39,42,68
+track_296,Song Title 296,Ariana Grande,latin,89,91,34,-3,73,93,198,28,10,82
+track_297,Song Title 297,Drake,latin,154,30,63,-3,34,53,258,49,24,63
+track_298,Song Title 298,Ariana Grande,latin,139,83,39,-16,63,18,269,36,11,55
+track_299,Song Title 299,Coldplay,indie,102,96,31,-6,71,46,156,13,20,63
+track_300,Song Title 300,Post Malone,hip hop,194,91,40,-12,49,83,185,36,6,80
+track_301,Song Title 301,Coldplay,latin,155,40,79,-13,8,45,152,26,24,64
+track_302,Song Title 302,Taylor Swift,pop,81,37,60,-7,30,37,282,4,31,62
+track_303,Song Title 303,Kendrick Lamar,indie,192,83,85,-11,31,51,150,82,26,84
+track_304,Song Title 304,Dua Lipa,rock,172,57,38,-4,50,52,190,64,29,55
+track_305,Song Title 305,Post Malone,pop,89,51,50,-11,68,94,192,38,35,73
+track_306,Song Title 306,Bad Bunny,r&b,152,30,57,-13,55,51,251,22,26,63
+track_307,Song Title 307,Drake,r&b,93,64,91,-7,54,75,181,2,11,99
+track_308,Song Title 308,Ed Sheeran,pop,127,52,36,-8,10,64,217,31,15,59
+track_309,Song Title 309,Dua Lipa,latin,178,60,45,-9,63,81,282,11,43,62
+track_310,Song Title 310,Dua Lipa,rock,113,27,33,-16,19,57,184,46,31,50
+track_311,Song Title 311,Coldplay,rock,145,30,33,-3,34,31,175,62,42,50
+track_312,Song Title 312,Kendrick Lamar,indie,148,70,69,-16,46,36,161,69,26,72
+track_313,Song Title 313,Taylor Swift,rock,169,60,46,-4,41,76,184,64,15,61
+track_314,Song Title 314,Billie Eilish,r&b,182,36,81,-18,46,22,225,10,36,60
+track_315,Song Title 315,Imagine Dragons,hip hop,150,95,81,-3,39,54,262,40,35,85
+track_316,Song Title 316,Coldplay,latin,127,65,65,-3,10,19,165,24,11,80
+track_317,Song Title 317,Dua Lipa,rock,168,51,67,-12,72,18,239,44,36,60
+track_318,Song Title 318,BTS,indie,113,73,79,-14,22,63,306,60,12,67
+track_319,Song Title 319,The Weeknd,r&b,135,39,92,-15,33,36,235,62,12,72
+track_320,Song Title 320,Drake,hip hop,65,52,92,-9,63,43,187,17,22,84
+track_321,Song Title 321,Imagine Dragons,dance pop,187,93,91,-4,51,10,168,65,22,86
+track_322,Song Title 322,Coldplay,dance pop,126,59,36,-15,21,41,209,57,23,54
+track_323,Song Title 323,Drake,hip hop,96,51,56,-5,26,80,226,55,8,72
+track_324,Song Title 324,The Weeknd,r&b,93,21,43,-15,72,76,242,53,18,60
+track_325,Song Title 325,Justin Bieber,indie,113,52,34,-13,73,93,190,56,3,59
+track_326,Song Title 326,The Weeknd,hip hop,94,96,84,-4,41,29,266,9,13,87
+track_327,Song Title 327,Kendrick Lamar,latin,83,49,31,-11,53,44,135,22,43,65
+track_328,Song Title 328,The Weeknd,latin,82,52,91,-11,17,87,238,13,19,76
+track_329,Song Title 329,Drake,dance pop,65,96,50,-14,38,26,164,48,12,69
+track_330,Song Title 330,Ariana Grande,rock,142,45,50,-4,57,27,168,18,17,52
+track_331,Song Title 331,Drake,indie,179,41,39,-13,55,54,279,76,19,62
+track_332,Song Title 332,Billie Eilish,dance pop,177,85,87,-15,7,93,298,40,36,82
+track_333,Song Title 333,Taylor Swift,rock,178,57,68,-7,46,62,247,17,27,87
+track_334,Song Title 334,Post Malone,rock,127,65,34,-5,36,91,134,15,17,62
+track_335,Song Title 335,Ariana Grande,latin,193,34,94,-8,55,77,299,15,7,88
+track_336,Song Title 336,Ed Sheeran,r&b,72,63,42,-6,50,74,216,79,44,83
+track_337,Song Title 337,Post Malone,pop,119,68,82,-10,25,10,205,63,43,68
+track_338,Song Title 338,Taylor Swift,r&b,167,94,74,-11,48,67,287,39,13,79
+track_339,Song Title 339,Coldplay,pop,96,80,61,-9,15,35,186,13,14,68
+track_340,Song Title 340,Imagine Dragons,hip hop,74,86,65,-7,72,29,256,81,5,75
+track_341,Song Title 341,Billie Eilish,latin,174,25,89,-9,5,19,158,32,40,76
+track_342,Song Title 342,Billie Eilish,rock,188,28,40,-18,67,68,294,9,3,52
+track_343,Song Title 343,Ed Sheeran,indie,151,25,92,-4,28,84,216,40,27,77
+track_344,Song Title 344,Ariana Grande,pop,119,92,50,-17,17,50,270,20,28,54
+track_345,Song Title 345,Kendrick Lamar,r&b,96,51,81,-10,15,14,289,82,28,85
+track_346,Song Title 346,Olivia Rodrigo,rock,157,60,84,-11,55,74,175,77,16,97
+track_347,Song Title 347,Justin Bieber,pop,72,95,55,-5,21,26,245,80,9,82
+track_348,Song Title 348,The Weeknd,pop,129,27,63,-16,28,31,241,73,8,53
+track_349,Song Title 349,Ariana Grande,pop,121,91,81,-11,23,50,280,63,41,91
+track_350,Song Title 350,Imagine Dragons,indie,131,69,81,-7,41,77,174,76,13,95
+track_351,Song Title 351,Justin Bieber,latin,136,81,58,-18,12,78,274,44,14,73
+track_352,Song Title 352,Billie Eilish,indie,118,81,67,-9,32,20,233,38,44,76
+track_353,Song Title 353,Drake,dance pop,131,26,71,-15,9,65,214,83,18,78
+track_354,Song Title 354,Imagine Dragons,rock,115,94,50,-16,21,60,263,60,18,60
+track_355,Song Title 355,Taylor Swift,latin,161,23,71,-13,40,30,237,71,37,72
+track_356,Song Title 356,Ed Sheeran,latin,156,25,42,-12,23,85,147,48,22,61
+track_357,Song Title 357,Taylor Swift,latin,72,77,93,-15,68,35,223,18,9,73
+track_358,Song Title 358,Olivia Rodrigo,r&b,99,41,46,-12,15,28,279,16,6,51
+track_359,Song Title 359,Imagine Dragons,latin,160,45,38,-10,58,69,162,55,27,58
+track_360,Song Title 360,Bad Bunny,indie,152,22,70,-8,49,80,287,39,17,65
+track_361,Song Title 361,Bad Bunny,latin,142,60,30,-17,51,56,255,68,37,72
+track_362,Song Title 362,Coldplay,hip hop,96,79,31,-8,16,80,289,59,29,76
+track_363,Song Title 363,Ariana Grande,rock,184,33,89,-16,25,35,299,62,30,79
+track_364,Song Title 364,Billie Eilish,latin,110,94,77,-14,15,49,251,13,13,87
+track_365,Song Title 365,Billie Eilish,rock,119,31,58,-16,9,14,267,81,38,57
+track_366,Song Title 366,The Weeknd,hip hop,71,31,39,-8,60,30,244,6,31,58
+track_367,Song Title 367,The Weeknd,hip hop,138,32,87,-11,24,87,293,83,24,78
+track_368,Song Title 368,The Weeknd,rock,71,44,89,-7,45,13,291,77,17,73
+track_369,Song Title 369,Drake,pop,149,64,50,-9,50,32,157,60,15,57
+track_370,Song Title 370,Post Malone,dance pop,176,38,57,-11,16,93,140,14,11,81
+track_371,Song Title 371,Dua Lipa,r&b,189,74,63,-11,74,24,296,54,8,57
+track_372,Song Title 372,Post Malone,pop,100,64,37,-7,21,17,176,4,38,54
+track_373,Song Title 373,Taylor Swift,pop,93,27,88,-7,23,50,256,39,30,94
+track_374,Song Title 374,Post Malone,indie,146,72,78,-10,30,28,276,72,4,79
+track_375,Song Title 375,Drake,r&b,66,74,46,-15,52,55,247,25,16,69
+track_376,Song Title 376,Coldplay,r&b,193,51,89,-14,56,37,272,77,37,81
+track_377,Song Title 377,Taylor Swift,pop,111,70,74,-14,74,77,255,32,20,68
+track_378,Song Title 378,Post Malone,latin,75,63,61,-11,59,24,285,59,14,58
+track_379,Song Title 379,Drake,indie,194,89,73,-12,37,46,281,63,43,77
+track_380,Song Title 380,Dua Lipa,indie,183,37,94,-10,66,10,201,38,22,67
+track_381,Song Title 381,Post Malone,hip hop,84,41,37,-4,27,76,236,53,38,68
+track_382,Song Title 382,Drake,r&b,69,56,72,-4,19,33,266,67,28,81
+track_383,Song Title 383,Olivia Rodrigo,pop,101,75,30,-3,31,36,304,28,30,79
+track_384,Song Title 384,The Weeknd,hip hop,117,78,80,-5,68,49,162,3,21,93
+track_385,Song Title 385,Olivia Rodrigo,rock,163,22,53,-11,55,72,148,80,26,57
+track_386,Song Title 386,Billie Eilish,dance pop,150,47,53,-17,57,70,203,22,7,63
+track_387,Song Title 387,The Weeknd,indie,172,93,46,-9,55,45,297,38,37,69
+track_388,Song Title 388,Billie Eilish,rock,88,54,34,-7,51,33,304,72,3,54
+track_389,Song Title 389,BTS,rock,145,80,49,-15,8,33,286,72,23,57
+track_390,Song Title 390,Ed Sheeran,latin,184,73,50,-13,11,13,307,62,33,77
+track_391,Song Title 391,Olivia Rodrigo,dance pop,123,82,87,-7,39,76,227,57,17,92
+track_392,Song Title 392,Ed Sheeran,rock,192,26,60,-17,52,43,270,6,19,58
+track_393,Song Title 393,Ed Sheeran,rock,178,95,40,-12,49,66,258,78,6,77
+track_394,Song Title 394,Dua Lipa,dance pop,179,68,81,-3,23,58,291,32,37,92
+track_395,Song Title 395,The Weeknd,dance pop,78,50,44,-16,67,62,222,10,31,71
+track_396,Song Title 396,BTS,rock,73,77,36,-6,42,32,305,3,20,62
+track_397,Song Title 397,Billie Eilish,dance pop,104,80,57,-16,71,78,177,59,24,79
+track_398,Song Title 398,Drake,rock,89,43,80,-8,63,62,306,76,35,72
+track_399,Song Title 399,Taylor Swift,rock,167,39,87,-17,73,71,193,49,14,74
+track_400,Song Title 400,Drake,latin,86,56,34,-8,17,50,190,59,44,64
+track_401,Song Title 401,Taylor Swift,pop,68,23,34,-11,51,66,286,31,30,59
+track_402,Song Title 402,Olivia Rodrigo,rock,93,39,37,-13,65,69,168,69,37,62
+track_403,Song Title 403,Bad Bunny,hip hop,173,79,93,-18,35,63,257,62,23,91
+track_404,Song Title 404,Drake,indie,162,43,39,-7,26,79,217,52,37,63
+track_405,Song Title 405,Post Malone,r&b,101,69,67,-18,47,66,155,41,10,75
+track_406,Song Title 406,Post Malone,pop,139,68,37,-12,71,19,146,31,40,54
+track_407,Song Title 407,Ariana Grande,pop,134,70,54,-3,58,49,200,84,20,99
+track_408,Song Title 408,The Weeknd,pop,192,55,79,-11,14,16,142,22,39,65
+track_409,Song Title 409,Taylor Swift,latin,149,85,78,-14,46,47,198,4,7,75
+track_410,Song Title 410,Taylor Swift,rock,106,53,65,-3,68,94,155,13,16,91
+track_411,Song Title 411,Imagine Dragons,latin,164,55,70,-7,25,70,178,45,21,77
+track_412,Song Title 412,Coldplay,rock,105,25,91,-3,70,93,136,42,10,95
+track_413,Song Title 413,The Weeknd,latin,98,58,39,-8,45,12,187,49,33,62
+track_414,Song Title 414,Dua Lipa,latin,81,61,50,-14,28,60,178,20,5,65
+track_415,Song Title 415,Ariana Grande,indie,186,77,65,-15,39,56,232,77,19,69
+track_416,Song Title 416,Dua Lipa,hip hop,140,31,41,-5,60,77,182,81,6,61
+track_417,Song Title 417,Olivia Rodrigo,latin,151,22,31,-13,34,85,191,54,21,55
+track_418,Song Title 418,Olivia Rodrigo,indie,181,37,42,-5,61,47,146,36,24,63
+track_419,Song Title 419,Dua Lipa,dance pop,170,59,82,-13,51,45,300,1,12,70
+track_420,Song Title 420,Dua Lipa,hip hop,150,40,61,-16,39,50,154,15,38,64
+track_421,Song Title 421,BTS,latin,91,34,45,-3,23,78,260,77,23,62
+track_422,Song Title 422,The Weeknd,r&b,121,45,61,-10,12,22,158,17,5,72
+track_423,Song Title 423,Dua Lipa,pop,95,27,61,-7,30,67,246,24,30,78
+track_424,Song Title 424,Post Malone,dance pop,162,61,40,-8,34,59,289,58,35,63
+track_425,Song Title 425,Coldplay,dance pop,76,63,39,-5,11,39,155,72,14,62
+track_426,Song Title 426,Coldplay,indie,117,33,44,-12,71,71,253,23,43,65
+track_427,Song Title 427,Ed Sheeran,dance pop,186,97,46,-3,69,34,273,46,10,88
+track_428,Song Title 428,Bad Bunny,hip hop,110,21,69,-18,40,36,154,72,43,72
+track_429,Song Title 429,Olivia Rodrigo,latin,128,56,47,-4,29,60,183,8,32,62
+track_430,Song Title 430,Taylor Swift,latin,194,88,84,-6,41,87,285,59,8,99
+track_431,Song Title 431,Imagine Dragons,r&b,118,57,54,-12,5,66,202,59,5,70
+track_432,Song Title 432,Kendrick Lamar,pop,171,60,88,-14,19,56,249,13,20,80
+track_433,Song Title 433,Taylor Swift,indie,115,81,51,-14,41,48,185,39,43,74
+track_434,Song Title 434,Bad Bunny,pop,100,79,59,-5,17,25,194,28,31,72
+track_435,Song Title 435,Imagine Dragons,dance pop,179,33,73,-6,12,31,222,61,32,80
+track_436,Song Title 436,BTS,r&b,90,21,61,-17,9,94,215,16,36,78
+track_437,Song Title 437,The Weeknd,pop,93,89,80,-15,64,63,209,2,22,95
+track_438,Song Title 438,Drake,hip hop,75,36,75,-7,5,30,298,82,32,57
+track_439,Song Title 439,The Weeknd,latin,104,47,50,-13,40,81,237,17,20,67
+track_440,Song Title 440,Taylor Swift,dance pop,75,85,61,-9,39,25,308,30,32,59
+track_441,Song Title 441,Taylor Swift,r&b,177,54,68,-4,70,68,247,13,33,75
+track_442,Song Title 442,Imagine Dragons,pop,103,24,41,-8,67,40,286,82,3,39
+track_443,Song Title 443,Imagine Dragons,indie,118,84,76,-12,27,51,212,13,11,85
+track_444,Song Title 444,Olivia Rodrigo,hip hop,162,59,47,-3,13,83,276,43,3,79
+track_445,Song Title 445,BTS,hip hop,119,95,50,-8,38,41,298,21,3,73
+track_446,Song Title 446,Olivia Rodrigo,pop,175,75,42,-14,50,68,302,55,25,63
+track_447,Song Title 447,Bad Bunny,latin,133,55,50,-10,8,43,144,81,18,69
+track_448,Song Title 448,Dua Lipa,pop,120,64,37,-16,34,18,260,40,33,48
+track_449,Song Title 449,The Weeknd,dance pop,97,42,75,-18,7,90,268,83,17,66
+track_450,Song Title 450,Imagine Dragons,pop,100,66,36,-15,18,20,303,15,17,48
+track_451,Song Title 451,Billie Eilish,hip hop,145,50,52,-10,64,19,159,73,40,61
+track_452,Song Title 452,Bad Bunny,r&b,173,30,51,-15,49,26,186,52,32,52
+track_453,Song Title 453,Post Malone,pop,137,29,51,-17,38,77,275,74,44,59
+track_454,Song Title 454,BTS,latin,104,86,58,-9,49,57,308,53,25,83
+track_455,Song Title 455,Taylor Swift,r&b,81,33,42,-5,65,61,257,52,2,74
+track_456,Song Title 456,Olivia Rodrigo,indie,193,93,31,-5,20,34,177,30,12,82
+track_457,Song Title 457,Bad Bunny,rock,125,29,58,-14,70,30,265,33,22,60
+track_458,Song Title 458,Kendrick Lamar,pop,168,95,81,-16,44,74,151,57,5,89
+track_459,Song Title 459,The Weeknd,latin,106,20,56,-6,21,72,135,52,8,71
+track_460,Song Title 460,Imagine Dragons,r&b,89,24,79,-7,38,60,233,9,27,62
+track_461,Song Title 461,Taylor Swift,latin,103,39,52,-6,20,45,165,54,13,65
+track_462,Song Title 462,Drake,indie,99,27,73,-10,64,90,208,1,32,74
+track_463,Song Title 463,Kendrick Lamar,hip hop,172,62,51,-15,70,75,245,44,18,66
+track_464,Song Title 464,BTS,latin,166,95,72,-13,70,24,186,75,34,77
+track_465,Song Title 465,Bad Bunny,r&b,162,20,66,-17,17,48,178,80,12,60
+track_466,Song Title 466,Ariana Grande,latin,76,76,90,-13,60,79,302,9,29,81
+track_467,Song Title 467,Taylor Swift,latin,83,83,85,-16,35,10,211,32,33,74
+track_468,Song Title 468,The Weeknd,latin,165,47,32,-7,38,32,195,15,2,54
+track_469,Song Title 469,Ed Sheeran,dance pop,108,56,92,-7,43,48,206,12,29,64
+track_470,Song Title 470,Billie Eilish,dance pop,113,66,48,-10,71,66,174,78,43,61
+track_471,Song Title 471,Justin Bieber,hip hop,81,95,52,-8,12,90,208,57,8,85
+track_472,Song Title 472,Kendrick Lamar,pop,138,56,58,-17,59,43,149,8,3,74
+track_473,Song Title 473,Dua Lipa,latin,121,68,59,-4,31,50,252,72,43,59
+track_474,Song Title 474,Justin Bieber,indie,119,63,68,-7,57,82,196,27,25,76
+track_475,Song Title 475,The Weeknd,pop,111,75,54,-7,43,22,212,62,5,75
+track_476,Song Title 476,Post Malone,indie,76,47,37,-10,69,79,132,12,20,73
+track_477,Song Title 477,Olivia Rodrigo,pop,126,25,87,-14,21,15,193,65,27,64
+track_478,Song Title 478,Post Malone,hip hop,144,80,45,-11,34,93,169,42,12,72
+track_479,Song Title 479,Ed Sheeran,latin,147,39,30,-17,57,61,188,62,41,64
+track_480,Song Title 480,Kendrick Lamar,latin,72,97,34,-13,17,12,191,11,44,69
+track_481,Song Title 481,Dua Lipa,rock,145,21,32,-16,25,90,261,43,12,64
+track_482,Song Title 482,Ariana Grande,indie,182,92,94,-7,23,72,189,17,4,92
+track_483,Song Title 483,Ed Sheeran,pop,89,56,33,-7,57,58,245,32,13,74
+track_484,Song Title 484,Kendrick Lamar,pop,153,39,93,-5,23,85,204,40,4,73
+track_485,Song Title 485,Coldplay,dance pop,76,45,39,-9,61,56,251,23,43,73
+track_486,Song Title 486,Justin Bieber,rock,123,48,50,-3,29,64,236,56,28,73
+track_487,Song Title 487,Ed Sheeran,r&b,173,20,75,-14,35,73,225,6,3,71
+track_488,Song Title 488,Justin Bieber,r&b,90,54,56,-7,59,74,220,50,17,68
+track_489,Song Title 489,Taylor Swift,dance pop,111,89,70,-11,27,90,287,37,3,73
+track_490,Song Title 490,Post Malone,dance pop,96,78,42,-9,36,76,259,64,31,75
+track_491,Song Title 491,Taylor Swift,dance pop,74,88,38,-5,66,24,191,54,21,74
+track_492,Song Title 492,Billie Eilish,indie,80,52,65,-18,14,41,178,72,39,71
+track_493,Song Title 493,Coldplay,indie,90,70,87,-14,58,77,266,49,29,90
+track_494,Song Title 494,Dua Lipa,hip hop,150,97,83,-16,56,27,221,11,26,83
+track_495,Song Title 495,Ariana Grande,hip hop,78,31,41,-15,24,92,288,49,33,55
+track_496,Song Title 496,BTS,dance pop,143,39,43,-17,36,52,253,21,11,64
+track_497,Song Title 497,Justin Bieber,rock,181,72,63,-10,18,44,190,66,43,67
+track_498,Song Title 498,Ariana Grande,pop,71,62,82,-16,54,87,177,63,41,91
+track_499,Song Title 499,Justin Bieber,indie,179,69,49,-4,32,67,282,83,34,77
+track_500,Song Title 500,The Weeknd,rock,136,48,45,-17,57,42,293,28,14,58
