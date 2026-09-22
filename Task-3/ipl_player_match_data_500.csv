@@ -1,0 +1,501 @@
+match_id,player_name,team,player_role,player_age,venue,runs_scored,wickets_taken,strike_rate
+IPL2024_001,Ravindra Jadeja,Sunrisers Hyderabad,Batsman,,"Narendra Modi Stadium, Ahmedabad",11,2.0,102.24
+IPL2024_002,Jos Buttler,Punjab Kings,Batsman,33.0,"Wankhede Stadium, Mumbai",73,4.0,76.24
+IPL2024_003,Yuzvendra Chahal,Punjab Kings,Batsman,23.0,"MA Chidambaram Stadium, Chennai",7,0.0,
+IPL2024_004,Shreyas Iyer,Chennai Super Kings,Batsman,20.0,"M. Chinnaswamy Stadium, Bengaluru",23,4.0,112.27
+IPL2024_005,Rishabh Pant,Rajasthan Royals,Wicketkeeper,37.0,"Wankhede Stadium, Mumbai",91,1.0,176.55
+IPL2024_006,Ravindra Jadeja,Gujarat Titans,Batsman,32.0,"Eden Gardens, Kolkata",40,3.0,
+IPL2024_007,Andre Russell,,Bowler,21.0,"Narendra Modi Stadium, Ahmedabad",35,3.0,202.87
+IPL2024_008,Shreyas Iyer,Punjab Kings,Batsman,28.0,"Wankhede Stadium, Mumbai",100,1.0,204.72
+IPL2024_009,Shreyas Iyer,Sunrisers Hyderabad,Allrounder,21.0,"M. Chinnaswamy Stadium, Bengaluru",84,2.0,156.93
+IPL2024_010,KL Rahul,Mumbai Indians,Wicketkeeper,28.0,"Eden Gardens, Kolkata",71,2.0,200.01
+IPL2024_011,Rishabh Pant,Punjab Kings,Bowler,20.0,"Arun Jaitley Stadium, Delhi",54,3.0,176.52
+IPL2024_012,MS Dhoni,Mumbai Indians,Allrounder,30.0,"M. Chinnaswamy Stadium, Bengaluru",8,3.0,146.56
+IPL2024_013,Rohit Sharma,Delhi Capitals,Batsman,22.0,"M. Chinnaswamy Stadium, Bengaluru",46,0.0,95.24
+IPL2024_014,Mohammed Shami,Delhi Capitals,Allrounder,23.0,"Eden Gardens, Kolkata",14,2.0,134.2
+IPL2024_015,Jasprit Bumrah,Rajasthan Royals,Batsman,37.0,"M. Chinnaswamy Stadium, Bengaluru",47,1.0,148.52
+IPL2024_016,Rohit Sharma,,Wicketkeeper,25.0,"Eden Gardens, Kolkata",109,2.0,190.95
+IPL2024_017,Virat Kohli,Lucknow Super Giants,Batsman,22.0,"Wankhede Stadium, Mumbai",103,0.0,137.39
+IPL2024_018,Mohammed Shami,Chennai Super Kings,Bowler,30.0,"Eden Gardens, Kolkata",81,3.0,195.67
+IPL2024_019,Mohammed Shami,Rajasthan Royals,Allrounder,34.0,"Eden Gardens, Kolkata",41,3.0,164.41
+IPL2024_020,Glenn Maxwell,Kolkata Knight Riders,Batsman,24.0,"Narendra Modi Stadium, Ahmedabad",59,0.0,89.18
+IPL2024_021,Suryakumar Yadav,Chennai Super Kings,Batsman,29.0,"Eden Gardens, Kolkata",83,1.0,209.3
+IPL2024_022,Faf du Plessis,Gujarat Titans,Batsman,31.0,"Eden Gardens, Kolkata",69,3.0,143.81
+IPL2024_023,Yuzvendra Chahal,Sunrisers Hyderabad,Batsman,34.0,"Arun Jaitley Stadium, Delhi",11,4.0,124.86
+IPL2024_024,Yuzvendra Chahal,Kolkata Knight Riders,Bowler,36.0,"Wankhede Stadium, Mumbai",1,3.0,162.28
+IPL2024_025,Andre Russell,Kolkata Knight Riders,Batsman,29.0,"Narendra Modi Stadium, Ahmedabad",6,4.0,85.25
+IPL2024_026,Mohammed Shami,Rajasthan Royals,Batsman,25.0,"Arun Jaitley Stadium, Delhi",79,0.0,159.12
+IPL2024_027,Jos Buttler,Royal Challengers Bengaluru,Batsman,37.0,"MA Chidambaram Stadium, Chennai",2,0.0,139.75
+IPL2024_028,MS Dhoni,Rajasthan Royals,Allrounder,32.0,"Wankhede Stadium, Mumbai",108,3.0,126.93
+IPL2024_029,Hardik Pandya,,Batsman,22.0,"Wankhede Stadium, Mumbai",2,2.0,203.42
+IPL2024_030,Andre Russell,Punjab Kings,Batsman,29.0,"MA Chidambaram Stadium, Chennai",26,4.0,143.16
+IPL2024_031,Ravindra Jadeja,Punjab Kings,Batsman,33.0,"Eden Gardens, Kolkata",113,1.0,100.68
+IPL2024_032,Shubman Gill,Royal Challengers Bengaluru,Bowler,25.0,"Arun Jaitley Stadium, Delhi",106,3.0,134.25
+IPL2024_033,Ravindra Jadeja,Gujarat Titans,Allrounder,,"M. Chinnaswamy Stadium, Bengaluru",39,,198.71
+IPL2024_034,David Warner,Royal Challengers Bengaluru,Batsman,35.0,"Narendra Modi Stadium, Ahmedabad",101,3.0,94.65
+IPL2024_035,KL Rahul,Mumbai Indians,Batsman,26.0,"M. Chinnaswamy Stadium, Bengaluru",32,2.0,99.95
+IPL2024_036,Sanju Samson,,Allrounder,33.0,"MA Chidambaram Stadium, Chennai",91,2.0,71.82
+IPL2024_037,David Warner,Kolkata Knight Riders,Allrounder,28.0,"Wankhede Stadium, Mumbai",0,2.0,71.99
+IPL2024_038,Shubman Gill,Lucknow Super Giants,Batsman,34.0,"Wankhede Stadium, Mumbai",7,2.0,186.11
+IPL2024_039,Rohit Sharma,Sunrisers Hyderabad,Allrounder,22.0,"Narendra Modi Stadium, Ahmedabad",100,0.0,172.5
+IPL2024_040,Jos Buttler,Gujarat Titans,Wicketkeeper,21.0,"Wankhede Stadium, Mumbai",31,0.0,
+IPL2024_041,Yuzvendra Chahal,Chennai Super Kings,Batsman,,"Wankhede Stadium, Mumbai",47,4.0,167.76
+IPL2024_042,Ravindra Jadeja,Royal Challengers Bengaluru,Allrounder,22.0,"Narendra Modi Stadium, Ahmedabad",106,1.0,125.33
+IPL2024_043,Mohammed Shami,Sunrisers Hyderabad,Allrounder,37.0,"Arun Jaitley Stadium, Delhi",100,3.0,203.41
+IPL2024_044,Rishabh Pant,Chennai Super Kings,Bowler,33.0,"Arun Jaitley Stadium, Delhi",3,3.0,205.39
+IPL2024_045,Yuzvendra Chahal,Sunrisers Hyderabad,Batsman,37.0,"Narendra Modi Stadium, Ahmedabad",93,0.0,124.99
+IPL2024_046,MS Dhoni,Lucknow Super Giants,Batsman,29.0,"MA Chidambaram Stadium, Chennai",69,3.0,189.59
+IPL2024_047,Sanju Samson,Chennai Super Kings,Allrounder,,"Wankhede Stadium, Mumbai",109,,178.23
+IPL2024_048,Glenn Maxwell,Rajasthan Royals,Wicketkeeper,20.0,"Wankhede Stadium, Mumbai",18,4.0,
+IPL2024_049,KL Rahul,Delhi Capitals,Bowler,23.0,"MA Chidambaram Stadium, Chennai",31,1.0,102.49
+IPL2024_050,David Warner,Rajasthan Royals,Bowler,33.0,"Arun Jaitley Stadium, Delhi",8,4.0,134.15
+IPL2024_051,Rishabh Pant,Punjab Kings,Bowler,20.0,"Eden Gardens, Kolkata",11,2.0,179.39
+IPL2024_052,KL Rahul,Delhi Capitals,Bowler,33.0,"Eden Gardens, Kolkata",10,2.0,204.42
+IPL2024_053,Rohit Sharma,Rajasthan Royals,Batsman,35.0,"Eden Gardens, Kolkata",45,2.0,176.9
+IPL2024_054,Jasprit Bumrah,Delhi Capitals,Batsman,33.0,"Arun Jaitley Stadium, Delhi",15,4.0,189.73
+IPL2024_055,Suryakumar Yadav,Delhi Capitals,Allrounder,22.0,"Arun Jaitley Stadium, Delhi",0,3.0,154.43
+IPL2024_056,KL Rahul,Kolkata Knight Riders,Batsman,22.0,"MA Chidambaram Stadium, Chennai",62,1.0,
+IPL2024_057,David Warner,Royal Challengers Bengaluru,Allrounder,28.0,"Wankhede Stadium, Mumbai",108,2.0,179.82
+IPL2024_058,Mohammed Shami,Royal Challengers Bengaluru,Batsman,25.0,"MA Chidambaram Stadium, Chennai",20,2.0,122.78
+IPL2024_059,Rohit Sharma,Kolkata Knight Riders,Batsman,32.0,"MA Chidambaram Stadium, Chennai",29,2.0,147.28
+IPL2024_060,Suryakumar Yadav,Sunrisers Hyderabad,Batsman,21.0,"Arun Jaitley Stadium, Delhi",12,1.0,182.67
+IPL2024_061,KL Rahul,Mumbai Indians,Bowler,27.0,"Eden Gardens, Kolkata",33,2.0,76.45
+IPL2024_062,Sanju Samson,Sunrisers Hyderabad,Wicketkeeper,21.0,"M. Chinnaswamy Stadium, Bengaluru",3,1.0,183.13
+IPL2024_063,Faf du Plessis,Chennai Super Kings,Batsman,23.0,"Wankhede Stadium, Mumbai",27,2.0,94.9
+IPL2024_064,Yuzvendra Chahal,,Allrounder,34.0,"Arun Jaitley Stadium, Delhi",101,4.0,142.06
+IPL2024_065,Rishabh Pant,Delhi Capitals,Bowler,23.0,"Eden Gardens, Kolkata",94,4.0,183.16
+IPL2024_066,Sanju Samson,Rajasthan Royals,Allrounder,32.0,"M. Chinnaswamy Stadium, Bengaluru",58,1.0,105.53
+IPL2024_067,Rishabh Pant,Rajasthan Royals,Batsman,31.0,"M. Chinnaswamy Stadium, Bengaluru",26,4.0,104.41
+IPL2024_068,Faf du Plessis,Royal Challengers Bengaluru,Allrounder,32.0,"Arun Jaitley Stadium, Delhi",68,1.0,126.39
+IPL2024_069,Rashid Khan,Gujarat Titans,Allrounder,33.0,"Narendra Modi Stadium, Ahmedabad",24,4.0,195.25
+IPL2024_070,David Warner,Sunrisers Hyderabad,Batsman,37.0,"Wankhede Stadium, Mumbai",2,4.0,70.06
+IPL2024_071,Yuzvendra Chahal,Punjab Kings,Batsman,25.0,"M. Chinnaswamy Stadium, Bengaluru",96,1.0,196.19
+IPL2024_072,Rashid Khan,Lucknow Super Giants,Allrounder,30.0,"Arun Jaitley Stadium, Delhi",67,3.0,91.53
+IPL2024_073,Shubman Gill,Rajasthan Royals,Wicketkeeper,21.0,"Arun Jaitley Stadium, Delhi",24,4.0,208.61
+IPL2024_074,Yuzvendra Chahal,Lucknow Super Giants,Batsman,38.0,"Eden Gardens, Kolkata",19,2.0,203.68
+IPL2024_075,Rashid Khan,Delhi Capitals,Allrounder,38.0,"Narendra Modi Stadium, Ahmedabad",33,3.0,139.25
+IPL2024_076,Virat Kohli,Lucknow Super Giants,Wicketkeeper,24.0,"Wankhede Stadium, Mumbai",25,1.0,141.78
+IPL2024_077,Ravindra Jadeja,Punjab Kings,Allrounder,38.0,"MA Chidambaram Stadium, Chennai",4,3.0,137.42
+IPL2024_078,Shubman Gill,Kolkata Knight Riders,Wicketkeeper,,"Eden Gardens, Kolkata",98,,158.96
+IPL2024_079,Virat Kohli,Punjab Kings,Allrounder,29.0,"M. Chinnaswamy Stadium, Bengaluru",60,0.0,82.7
+IPL2024_080,Mohammed Shami,Lucknow Super Giants,Bowler,21.0,"M. Chinnaswamy Stadium, Bengaluru",91,4.0,74.57
+IPL2024_081,Rishabh Pant,Punjab Kings,Batsman,30.0,"Eden Gardens, Kolkata",92,4.0,78.08
+IPL2024_082,Shreyas Iyer,Mumbai Indians,Batsman,37.0,"Arun Jaitley Stadium, Delhi",8,2.0,132.21
+IPL2024_083,Andre Russell,Delhi Capitals,Allrounder,34.0,"M. Chinnaswamy Stadium, Bengaluru",101,3.0,108.58
+IPL2024_084,Glenn Maxwell,Sunrisers Hyderabad,Allrounder,28.0,"Narendra Modi Stadium, Ahmedabad",49,0.0,157.09
+IPL2024_085,Rishabh Pant,,Batsman,38.0,"Wankhede Stadium, Mumbai",5,4.0,208.94
+IPL2024_086,MS Dhoni,Rajasthan Royals,Allrounder,28.0,"Narendra Modi Stadium, Ahmedabad",82,3.0,124.09
+IPL2024_087,MS Dhoni,Chennai Super Kings,Allrounder,22.0,"M. Chinnaswamy Stadium, Bengaluru",59,4.0,150.34
+IPL2024_088,Virat Kohli,,Bowler,28.0,"MA Chidambaram Stadium, Chennai",43,4.0,128.18
+IPL2024_089,Hardik Pandya,Chennai Super Kings,Bowler,33.0,"Wankhede Stadium, Mumbai",10,0.0,188.62
+IPL2024_090,Suryakumar Yadav,Delhi Capitals,Bowler,38.0,"Wankhede Stadium, Mumbai",65,0.0,196.31
+IPL2024_091,Ravindra Jadeja,Kolkata Knight Riders,Batsman,26.0,"Eden Gardens, Kolkata",46,4.0,192.83
+IPL2024_092,Shubman Gill,Royal Challengers Bengaluru,Batsman,35.0,"Eden Gardens, Kolkata",107,1.0,206.41
+IPL2024_093,Ravindra Jadeja,Rajasthan Royals,Batsman,35.0,"MA Chidambaram Stadium, Chennai",107,4.0,73.85
+IPL2024_094,Shubman Gill,Mumbai Indians,Batsman,20.0,"Arun Jaitley Stadium, Delhi",72,4.0,187.57
+IPL2024_095,Rishabh Pant,Royal Challengers Bengaluru,Bowler,23.0,"Wankhede Stadium, Mumbai",84,2.0,175.25
+IPL2024_096,Mohammed Shami,Delhi Capitals,Bowler,23.0,"MA Chidambaram Stadium, Chennai",87,2.0,102.02
+IPL2024_097,Rohit Sharma,Sunrisers Hyderabad,Batsman,26.0,"Eden Gardens, Kolkata",97,2.0,203.88
+IPL2024_098,Virat Kohli,Mumbai Indians,Allrounder,27.0,"Eden Gardens, Kolkata",85,1.0,90.74
+IPL2024_099,Faf du Plessis,Punjab Kings,Batsman,,"Wankhede Stadium, Mumbai",2,1.0,165.14
+IPL2024_100,Hardik Pandya,Lucknow Super Giants,Wicketkeeper,,"Narendra Modi Stadium, Ahmedabad",75,4.0,101.48
+IPL2024_101,MS Dhoni,Mumbai Indians,Wicketkeeper,26.0,"M. Chinnaswamy Stadium, Bengaluru",91,2.0,130.39
+IPL2024_102,Mohammed Shami,Delhi Capitals,Batsman,23.0,"Eden Gardens, Kolkata",29,1.0,170.68
+IPL2024_103,Rishabh Pant,Gujarat Titans,Bowler,25.0,"Arun Jaitley Stadium, Delhi",89,0.0,148.87
+IPL2024_104,MS Dhoni,Lucknow Super Giants,Batsman,26.0,"Arun Jaitley Stadium, Delhi",111,4.0,129.85
+IPL2024_105,Virat Kohli,Chennai Super Kings,Bowler,,"Eden Gardens, Kolkata",20,3.0,115.69
+IPL2024_106,MS Dhoni,Rajasthan Royals,Bowler,24.0,"Narendra Modi Stadium, Ahmedabad",27,4.0,187.55
+IPL2024_107,Hardik Pandya,Chennai Super Kings,Batsman,22.0,"Narendra Modi Stadium, Ahmedabad",89,,90.13
+IPL2024_108,Yuzvendra Chahal,Mumbai Indians,Bowler,26.0,"MA Chidambaram Stadium, Chennai",61,2.0,130.21
+IPL2024_109,Sanju Samson,Chennai Super Kings,Batsman,,"Arun Jaitley Stadium, Delhi",32,3.0,196.53
+IPL2024_110,MS Dhoni,Delhi Capitals,Batsman,26.0,"MA Chidambaram Stadium, Chennai",84,2.0,188.42
+IPL2024_111,Virat Kohli,Punjab Kings,Bowler,24.0,"Arun Jaitley Stadium, Delhi",34,0.0,126.13
+IPL2024_112,Hardik Pandya,Sunrisers Hyderabad,Batsman,24.0,"M. Chinnaswamy Stadium, Bengaluru",51,3.0,176.84
+IPL2024_113,Sanju Samson,Rajasthan Royals,Bowler,21.0,"M. Chinnaswamy Stadium, Bengaluru",33,4.0,185.24
+IPL2024_114,Ravindra Jadeja,Chennai Super Kings,Bowler,25.0,"Wankhede Stadium, Mumbai",40,2.0,194.44
+IPL2024_115,Shubman Gill,Chennai Super Kings,Wicketkeeper,34.0,"MA Chidambaram Stadium, Chennai",50,4.0,146.23
+IPL2024_116,Yuzvendra Chahal,Mumbai Indians,Batsman,29.0,"Eden Gardens, Kolkata",46,1.0,98.62
+IPL2024_117,Yuzvendra Chahal,Sunrisers Hyderabad,Bowler,26.0,"MA Chidambaram Stadium, Chennai",81,2.0,105.74
+IPL2024_118,Suryakumar Yadav,Royal Challengers Bengaluru,Bowler,24.0,"Eden Gardens, Kolkata",57,3.0,111.4
+IPL2024_119,Rashid Khan,Chennai Super Kings,Batsman,20.0,"Narendra Modi Stadium, Ahmedabad",74,2.0,153.13
+IPL2024_120,Andre Russell,Delhi Capitals,Wicketkeeper,32.0,"MA Chidambaram Stadium, Chennai",56,4.0,74.59
+IPL2024_121,Ravindra Jadeja,,Allrounder,37.0,"Narendra Modi Stadium, Ahmedabad",22,0.0,159.05
+IPL2024_122,Glenn Maxwell,Rajasthan Royals,Bowler,32.0,"M. Chinnaswamy Stadium, Bengaluru",47,2.0,
+IPL2024_123,Jos Buttler,Chennai Super Kings,Allrounder,37.0,"M. Chinnaswamy Stadium, Bengaluru",21,3.0,111.33
+IPL2024_124,KL Rahul,Delhi Capitals,Wicketkeeper,24.0,"Wankhede Stadium, Mumbai",16,,193.13
+IPL2024_125,Hardik Pandya,Delhi Capitals,Wicketkeeper,32.0,"MA Chidambaram Stadium, Chennai",68,0.0,134.4
+IPL2024_126,Ravindra Jadeja,,Allrounder,23.0,"Narendra Modi Stadium, Ahmedabad",107,1.0,83.31
+IPL2024_127,Rashid Khan,Royal Challengers Bengaluru,Allrounder,36.0,"Eden Gardens, Kolkata",10,2.0,185.74
+IPL2024_128,Yuzvendra Chahal,Delhi Capitals,Batsman,22.0,"M. Chinnaswamy Stadium, Bengaluru",93,4.0,76.67
+IPL2024_129,Shreyas Iyer,Gujarat Titans,Batsman,36.0,"M. Chinnaswamy Stadium, Bengaluru",14,4.0,171.74
+IPL2024_130,KL Rahul,Delhi Capitals,Bowler,,"Eden Gardens, Kolkata",90,3.0,178.35
+IPL2024_131,Rashid Khan,Delhi Capitals,Batsman,23.0,"Narendra Modi Stadium, Ahmedabad",34,,119.36
+IPL2024_132,Ravindra Jadeja,Delhi Capitals,Bowler,21.0,"Narendra Modi Stadium, Ahmedabad",32,0.0,
+IPL2024_133,Andre Russell,Punjab Kings,Batsman,35.0,"MA Chidambaram Stadium, Chennai",83,4.0,142.19
+IPL2024_134,Rohit Sharma,Punjab Kings,Batsman,,"MA Chidambaram Stadium, Chennai",15,3.0,134.86
+IPL2024_135,Suryakumar Yadav,Royal Challengers Bengaluru,Allrounder,,"Arun Jaitley Stadium, Delhi",33,2.0,76.36
+IPL2024_136,Rashid Khan,Chennai Super Kings,Wicketkeeper,22.0,"Arun Jaitley Stadium, Delhi",65,2.0,
+IPL2024_137,Jasprit Bumrah,Delhi Capitals,Batsman,28.0,"Wankhede Stadium, Mumbai",98,4.0,200.34
+IPL2024_138,Mohammed Shami,Sunrisers Hyderabad,Bowler,25.0,"M. Chinnaswamy Stadium, Bengaluru",39,1.0,124.86
+IPL2024_139,Mohammed Shami,Chennai Super Kings,Allrounder,29.0,"MA Chidambaram Stadium, Chennai",27,2.0,
+IPL2024_140,Jos Buttler,Royal Challengers Bengaluru,Batsman,29.0,"Narendra Modi Stadium, Ahmedabad",46,4.0,144.48
+IPL2024_141,Shreyas Iyer,Kolkata Knight Riders,Allrounder,,"Eden Gardens, Kolkata",38,3.0,152.66
+IPL2024_142,Ravindra Jadeja,Chennai Super Kings,Batsman,36.0,"Narendra Modi Stadium, Ahmedabad",69,4.0,78.59
+IPL2024_143,Virat Kohli,Chennai Super Kings,Batsman,28.0,"M. Chinnaswamy Stadium, Bengaluru",72,2.0,120.7
+IPL2024_144,Virat Kohli,,Wicketkeeper,36.0,"Arun Jaitley Stadium, Delhi",19,3.0,171.24
+IPL2024_145,Jos Buttler,Mumbai Indians,Batsman,,"Narendra Modi Stadium, Ahmedabad",0,4.0,98.08
+IPL2024_146,Rashid Khan,Lucknow Super Giants,Bowler,28.0,"Wankhede Stadium, Mumbai",71,0.0,98.5
+IPL2024_147,Shubman Gill,Gujarat Titans,Allrounder,20.0,"M. Chinnaswamy Stadium, Bengaluru",86,3.0,71.41
+IPL2024_148,MS Dhoni,Punjab Kings,Batsman,21.0,"Arun Jaitley Stadium, Delhi",62,0.0,131.25
+IPL2024_149,Ravindra Jadeja,Punjab Kings,Bowler,35.0,"Eden Gardens, Kolkata",66,1.0,193.58
+IPL2024_150,Jasprit Bumrah,Mumbai Indians,Wicketkeeper,20.0,"Arun Jaitley Stadium, Delhi",3,3.0,77.27
+IPL2024_151,Rishabh Pant,Rajasthan Royals,Batsman,29.0,"Wankhede Stadium, Mumbai",57,0.0,96.76
+IPL2024_152,Shubman Gill,Rajasthan Royals,Allrounder,37.0,"M. Chinnaswamy Stadium, Bengaluru",24,2.0,
+IPL2024_153,Hardik Pandya,,Bowler,27.0,"Eden Gardens, Kolkata",46,2.0,172.44
+IPL2024_154,Virat Kohli,Mumbai Indians,Bowler,,"Wankhede Stadium, Mumbai",37,1.0,159.69
+IPL2024_155,Andre Russell,Chennai Super Kings,Bowler,21.0,"Arun Jaitley Stadium, Delhi",14,3.0,128.23
+IPL2024_156,Suryakumar Yadav,Rajasthan Royals,Batsman,27.0,"Wankhede Stadium, Mumbai",62,3.0,176.27
+IPL2024_157,Mohammed Shami,Delhi Capitals,Wicketkeeper,27.0,"M. Chinnaswamy Stadium, Bengaluru",20,3.0,155.35
+IPL2024_158,Yuzvendra Chahal,Sunrisers Hyderabad,Wicketkeeper,36.0,"MA Chidambaram Stadium, Chennai",98,1.0,195.45
+IPL2024_159,Shubman Gill,Chennai Super Kings,Bowler,34.0,"Wankhede Stadium, Mumbai",56,3.0,184.52
+IPL2024_160,Jos Buttler,Gujarat Titans,Allrounder,,"Wankhede Stadium, Mumbai",52,2.0,105.39
+IPL2024_161,Glenn Maxwell,Delhi Capitals,Bowler,32.0,"Arun Jaitley Stadium, Delhi",45,0.0,108.0
+IPL2024_162,Glenn Maxwell,Delhi Capitals,Bowler,38.0,"Arun Jaitley Stadium, Delhi",13,2.0,87.55
+IPL2024_163,Jos Buttler,Mumbai Indians,Bowler,24.0,"Eden Gardens, Kolkata",99,2.0,117.18
+IPL2024_164,Mohammed Shami,Royal Challengers Bengaluru,Bowler,31.0,"Arun Jaitley Stadium, Delhi",75,0.0,209.94
+IPL2024_165,Ravindra Jadeja,Gujarat Titans,Bowler,20.0,"Narendra Modi Stadium, Ahmedabad",16,2.0,126.81
+IPL2024_166,Rohit Sharma,Rajasthan Royals,Allrounder,24.0,"M. Chinnaswamy Stadium, Bengaluru",38,1.0,100.87
+IPL2024_167,MS Dhoni,Mumbai Indians,Bowler,,"M. Chinnaswamy Stadium, Bengaluru",8,0.0,176.75
+IPL2024_168,Glenn Maxwell,Rajasthan Royals,Batsman,32.0,"MA Chidambaram Stadium, Chennai",98,2.0,145.95
+IPL2024_169,Hardik Pandya,Mumbai Indians,Batsman,27.0,"MA Chidambaram Stadium, Chennai",76,4.0,90.94
+IPL2024_170,Glenn Maxwell,Mumbai Indians,Bowler,30.0,"M. Chinnaswamy Stadium, Bengaluru",78,2.0,123.3
+IPL2024_171,Glenn Maxwell,Mumbai Indians,Allrounder,20.0,"MA Chidambaram Stadium, Chennai",81,1.0,128.03
+IPL2024_172,Glenn Maxwell,Royal Challengers Bengaluru,Bowler,32.0,"Eden Gardens, Kolkata",114,3.0,175.54
+IPL2024_173,Rohit Sharma,Mumbai Indians,Bowler,38.0,"Arun Jaitley Stadium, Delhi",96,2.0,72.89
+IPL2024_174,Rohit Sharma,Kolkata Knight Riders,Bowler,22.0,"M. Chinnaswamy Stadium, Bengaluru",5,3.0,107.66
+IPL2024_175,Hardik Pandya,Sunrisers Hyderabad,Bowler,36.0,"MA Chidambaram Stadium, Chennai",90,4.0,142.46
+IPL2024_176,Virat Kohli,Rajasthan Royals,Batsman,24.0,"M. Chinnaswamy Stadium, Bengaluru",22,2.0,107.64
+IPL2024_177,Virat Kohli,Chennai Super Kings,Bowler,27.0,"Narendra Modi Stadium, Ahmedabad",58,0.0,157.98
+IPL2024_178,Andre Russell,Lucknow Super Giants,Allrounder,33.0,"Wankhede Stadium, Mumbai",90,3.0,137.46
+IPL2024_179,Rohit Sharma,Gujarat Titans,Allrounder,,"Arun Jaitley Stadium, Delhi",97,4.0,120.64
+IPL2024_180,Mohammed Shami,Punjab Kings,Bowler,30.0,"M. Chinnaswamy Stadium, Bengaluru",45,0.0,202.89
+IPL2024_181,Jasprit Bumrah,Royal Challengers Bengaluru,Batsman,34.0,"Wankhede Stadium, Mumbai",37,0.0,158.5
+IPL2024_182,KL Rahul,Chennai Super Kings,Batsman,38.0,"MA Chidambaram Stadium, Chennai",13,0.0,88.19
+IPL2024_183,Shreyas Iyer,Delhi Capitals,Batsman,26.0,"Wankhede Stadium, Mumbai",99,0.0,148.41
+IPL2024_184,Glenn Maxwell,Kolkata Knight Riders,Bowler,38.0,"Arun Jaitley Stadium, Delhi",71,2.0,179.3
+IPL2024_185,Jasprit Bumrah,,Batsman,38.0,"M. Chinnaswamy Stadium, Bengaluru",61,2.0,169.19
+IPL2024_186,Hardik Pandya,Lucknow Super Giants,Bowler,30.0,"Narendra Modi Stadium, Ahmedabad",34,2.0,94.09
+IPL2024_187,Jos Buttler,Chennai Super Kings,Bowler,24.0,"MA Chidambaram Stadium, Chennai",18,4.0,206.14
+IPL2024_188,Rohit Sharma,Punjab Kings,Batsman,,"M. Chinnaswamy Stadium, Bengaluru",29,4.0,132.83
+IPL2024_189,Jasprit Bumrah,Chennai Super Kings,Bowler,27.0,"Arun Jaitley Stadium, Delhi",77,4.0,92.26
+IPL2024_190,Shreyas Iyer,Kolkata Knight Riders,Batsman,29.0,"MA Chidambaram Stadium, Chennai",83,1.0,95.23
+IPL2024_191,Faf du Plessis,Lucknow Super Giants,Bowler,25.0,"Eden Gardens, Kolkata",112,4.0,83.75
+IPL2024_192,Faf du Plessis,Delhi Capitals,Batsman,34.0,"Wankhede Stadium, Mumbai",24,2.0,182.49
+IPL2024_193,Virat Kohli,Mumbai Indians,Allrounder,35.0,"Arun Jaitley Stadium, Delhi",39,2.0,87.08
+IPL2024_194,Shubman Gill,Rajasthan Royals,Batsman,36.0,"Eden Gardens, Kolkata",87,1.0,87.52
+IPL2024_195,Jasprit Bumrah,Delhi Capitals,Wicketkeeper,27.0,"M. Chinnaswamy Stadium, Bengaluru",13,1.0,189.07
+IPL2024_196,Faf du Plessis,Mumbai Indians,Bowler,27.0,"Narendra Modi Stadium, Ahmedabad",25,4.0,118.24
+IPL2024_197,MS Dhoni,Royal Challengers Bengaluru,Allrounder,28.0,"MA Chidambaram Stadium, Chennai",101,3.0,74.32
+IPL2024_198,Jos Buttler,Sunrisers Hyderabad,Bowler,21.0,"Wankhede Stadium, Mumbai",86,1.0,77.27
+IPL2024_199,KL Rahul,Gujarat Titans,Allrounder,34.0,"MA Chidambaram Stadium, Chennai",21,0.0,89.9
+IPL2024_200,Andre Russell,Gujarat Titans,Allrounder,37.0,"M. Chinnaswamy Stadium, Bengaluru",47,2.0,99.88
+IPL2024_201,MS Dhoni,Rajasthan Royals,Bowler,22.0,"MA Chidambaram Stadium, Chennai",82,0.0,163.12
+IPL2024_202,Andre Russell,Lucknow Super Giants,Bowler,36.0,"Wankhede Stadium, Mumbai",109,,92.03
+IPL2024_203,Jos Buttler,Kolkata Knight Riders,Bowler,23.0,"M. Chinnaswamy Stadium, Bengaluru",50,2.0,86.64
+IPL2024_204,Ravindra Jadeja,Lucknow Super Giants,Bowler,23.0,"MA Chidambaram Stadium, Chennai",2,1.0,177.06
+IPL2024_205,Jos Buttler,Kolkata Knight Riders,Batsman,33.0,"Narendra Modi Stadium, Ahmedabad",41,1.0,163.95
+IPL2024_206,Shubman Gill,Lucknow Super Giants,Batsman,28.0,"Arun Jaitley Stadium, Delhi",18,0.0,130.95
+IPL2024_207,Virat Kohli,,Bowler,28.0,"M. Chinnaswamy Stadium, Bengaluru",72,2.0,146.9
+IPL2024_208,Rishabh Pant,Royal Challengers Bengaluru,Bowler,37.0,"Arun Jaitley Stadium, Delhi",27,0.0,113.68
+IPL2024_209,Ravindra Jadeja,,Allrounder,29.0,"M. Chinnaswamy Stadium, Bengaluru",83,3.0,137.55
+IPL2024_210,David Warner,Mumbai Indians,Bowler,23.0,"Narendra Modi Stadium, Ahmedabad",44,0.0,140.93
+IPL2024_211,Rishabh Pant,Punjab Kings,Wicketkeeper,31.0,"Arun Jaitley Stadium, Delhi",70,4.0,
+IPL2024_212,Virat Kohli,Royal Challengers Bengaluru,Batsman,27.0,"Eden Gardens, Kolkata",77,0.0,196.92
+IPL2024_213,Shreyas Iyer,Royal Challengers Bengaluru,Batsman,21.0,"Wankhede Stadium, Mumbai",62,4.0,72.25
+IPL2024_214,David Warner,Delhi Capitals,Batsman,32.0,"Eden Gardens, Kolkata",72,4.0,179.5
+IPL2024_215,Suryakumar Yadav,Delhi Capitals,Bowler,35.0,"MA Chidambaram Stadium, Chennai",18,4.0,87.41
+IPL2024_216,MS Dhoni,Mumbai Indians,Allrounder,21.0,"Narendra Modi Stadium, Ahmedabad",46,3.0,181.66
+IPL2024_217,Ravindra Jadeja,Punjab Kings,Batsman,30.0,"Eden Gardens, Kolkata",13,0.0,156.23
+IPL2024_218,Faf du Plessis,Rajasthan Royals,Allrounder,29.0,"M. Chinnaswamy Stadium, Bengaluru",37,0.0,188.06
+IPL2024_219,Faf du Plessis,Delhi Capitals,Bowler,34.0,"MA Chidambaram Stadium, Chennai",52,3.0,83.65
+IPL2024_220,Jos Buttler,Rajasthan Royals,Bowler,36.0,"MA Chidambaram Stadium, Chennai",60,2.0,148.26
+IPL2024_221,Glenn Maxwell,Chennai Super Kings,Bowler,27.0,"Eden Gardens, Kolkata",35,1.0,140.15
+IPL2024_222,Rohit Sharma,,Batsman,37.0,"Eden Gardens, Kolkata",39,0.0,168.87
+IPL2024_223,Virat Kohli,Sunrisers Hyderabad,Bowler,28.0,"Narendra Modi Stadium, Ahmedabad",80,1.0,144.8
+IPL2024_224,Faf du Plessis,Punjab Kings,Bowler,27.0,"Wankhede Stadium, Mumbai",29,3.0,145.7
+IPL2024_225,Mohammed Shami,,Batsman,33.0,"Eden Gardens, Kolkata",8,2.0,130.14
+IPL2024_226,Hardik Pandya,,Bowler,37.0,"Eden Gardens, Kolkata",63,2.0,113.24
+IPL2024_227,Hardik Pandya,Punjab Kings,Batsman,,"Arun Jaitley Stadium, Delhi",32,2.0,137.52
+IPL2024_228,Shubman Gill,Sunrisers Hyderabad,Bowler,38.0,"M. Chinnaswamy Stadium, Bengaluru",51,3.0,86.59
+IPL2024_229,Shubman Gill,Punjab Kings,Bowler,33.0,"Arun Jaitley Stadium, Delhi",88,4.0,204.61
+IPL2024_230,MS Dhoni,Sunrisers Hyderabad,Bowler,36.0,"Arun Jaitley Stadium, Delhi",13,4.0,170.02
+IPL2024_231,Andre Russell,Sunrisers Hyderabad,Bowler,22.0,"MA Chidambaram Stadium, Chennai",74,,203.35
+IPL2024_232,Faf du Plessis,Rajasthan Royals,Batsman,26.0,"Wankhede Stadium, Mumbai",52,4.0,101.74
+IPL2024_233,Faf du Plessis,Lucknow Super Giants,Bowler,36.0,"M. Chinnaswamy Stadium, Bengaluru",98,4.0,193.11
+IPL2024_234,MS Dhoni,Chennai Super Kings,Batsman,31.0,"Narendra Modi Stadium, Ahmedabad",104,2.0,183.23
+IPL2024_235,Jos Buttler,Punjab Kings,Batsman,28.0,"Narendra Modi Stadium, Ahmedabad",58,2.0,164.8
+IPL2024_236,Virat Kohli,Kolkata Knight Riders,Allrounder,34.0,"Eden Gardens, Kolkata",77,1.0,157.5
+IPL2024_237,Jos Buttler,Chennai Super Kings,Batsman,37.0,"Eden Gardens, Kolkata",93,0.0,114.32
+IPL2024_238,Shreyas Iyer,Lucknow Super Giants,Bowler,,"Narendra Modi Stadium, Ahmedabad",40,1.0,184.3
+IPL2024_239,Glenn Maxwell,Chennai Super Kings,Bowler,27.0,"Eden Gardens, Kolkata",67,1.0,140.21
+IPL2024_240,Rishabh Pant,Royal Challengers Bengaluru,Batsman,33.0,"Wankhede Stadium, Mumbai",67,3.0,79.92
+IPL2024_241,KL Rahul,Kolkata Knight Riders,Batsman,27.0,"Arun Jaitley Stadium, Delhi",91,3.0,113.8
+IPL2024_242,Jasprit Bumrah,Lucknow Super Giants,Batsman,33.0,"Eden Gardens, Kolkata",7,1.0,200.94
+IPL2024_243,Rishabh Pant,Rajasthan Royals,Allrounder,26.0,"MA Chidambaram Stadium, Chennai",1,1.0,189.1
+IPL2024_244,Jos Buttler,Punjab Kings,Bowler,31.0,"Eden Gardens, Kolkata",104,1.0,
+IPL2024_245,MS Dhoni,Gujarat Titans,Batsman,30.0,"M. Chinnaswamy Stadium, Bengaluru",109,4.0,157.92
+IPL2024_246,Faf du Plessis,Lucknow Super Giants,Bowler,30.0,"Wankhede Stadium, Mumbai",85,3.0,104.65
+IPL2024_247,MS Dhoni,Mumbai Indians,Bowler,32.0,"M. Chinnaswamy Stadium, Bengaluru",40,1.0,92.79
+IPL2024_248,David Warner,Punjab Kings,Batsman,,"M. Chinnaswamy Stadium, Bengaluru",54,2.0,96.17
+IPL2024_249,Sanju Samson,,Bowler,21.0,"MA Chidambaram Stadium, Chennai",15,2.0,72.77
+IPL2024_250,David Warner,Royal Challengers Bengaluru,Bowler,34.0,"Wankhede Stadium, Mumbai",92,4.0,124.7
+IPL2024_251,Rohit Sharma,Gujarat Titans,Wicketkeeper,37.0,"Wankhede Stadium, Mumbai",61,4.0,96.8
+IPL2024_252,MS Dhoni,Royal Challengers Bengaluru,Batsman,34.0,"Wankhede Stadium, Mumbai",112,0.0,
+IPL2024_253,Faf du Plessis,Gujarat Titans,Batsman,38.0,"Wankhede Stadium, Mumbai",47,0.0,200.9
+IPL2024_254,Shubman Gill,Mumbai Indians,Batsman,31.0,"Wankhede Stadium, Mumbai",29,0.0,130.28
+IPL2024_255,KL Rahul,Punjab Kings,Bowler,32.0,"MA Chidambaram Stadium, Chennai",11,4.0,192.92
+IPL2024_256,Virat Kohli,Rajasthan Royals,Batsman,30.0,"Eden Gardens, Kolkata",34,4.0,154.77
+IPL2024_257,KL Rahul,Royal Challengers Bengaluru,Bowler,24.0,"M. Chinnaswamy Stadium, Bengaluru",10,4.0,104.6
+IPL2024_258,Virat Kohli,Royal Challengers Bengaluru,Allrounder,20.0,"Wankhede Stadium, Mumbai",63,2.0,119.82
+IPL2024_259,Sanju Samson,Sunrisers Hyderabad,Allrounder,22.0,"Eden Gardens, Kolkata",109,4.0,81.75
+IPL2024_260,Faf du Plessis,Gujarat Titans,Bowler,38.0,"Eden Gardens, Kolkata",49,2.0,116.68
+IPL2024_261,Jos Buttler,Delhi Capitals,Allrounder,26.0,"M. Chinnaswamy Stadium, Bengaluru",84,0.0,164.86
+IPL2024_262,Rishabh Pant,Punjab Kings,Bowler,31.0,"MA Chidambaram Stadium, Chennai",20,0.0,80.1
+IPL2024_263,Ravindra Jadeja,Gujarat Titans,Bowler,34.0,"Narendra Modi Stadium, Ahmedabad",68,0.0,98.76
+IPL2024_264,MS Dhoni,Sunrisers Hyderabad,Batsman,24.0,"Narendra Modi Stadium, Ahmedabad",47,1.0,123.4
+IPL2024_265,Glenn Maxwell,Chennai Super Kings,Wicketkeeper,34.0,"Eden Gardens, Kolkata",19,1.0,207.49
+IPL2024_266,Virat Kohli,Gujarat Titans,Batsman,27.0,"Arun Jaitley Stadium, Delhi",100,3.0,179.88
+IPL2024_267,Faf du Plessis,Rajasthan Royals,Batsman,29.0,"Arun Jaitley Stadium, Delhi",66,,172.69
+IPL2024_268,Mohammed Shami,Punjab Kings,Batsman,35.0,"M. Chinnaswamy Stadium, Bengaluru",43,3.0,86.27
+IPL2024_269,Andre Russell,Sunrisers Hyderabad,Bowler,27.0,"Narendra Modi Stadium, Ahmedabad",32,1.0,179.34
+IPL2024_270,Sanju Samson,Chennai Super Kings,Batsman,20.0,"Eden Gardens, Kolkata",72,1.0,179.94
+IPL2024_271,Jasprit Bumrah,Kolkata Knight Riders,Batsman,31.0,"MA Chidambaram Stadium, Chennai",60,3.0,
+IPL2024_272,Jasprit Bumrah,Sunrisers Hyderabad,Batsman,,"Narendra Modi Stadium, Ahmedabad",8,3.0,208.65
+IPL2024_273,Rashid Khan,Kolkata Knight Riders,Batsman,22.0,"Eden Gardens, Kolkata",67,,115.54
+IPL2024_274,Andre Russell,Punjab Kings,Bowler,20.0,"Eden Gardens, Kolkata",34,3.0,201.78
+IPL2024_275,Rishabh Pant,Royal Challengers Bengaluru,Bowler,23.0,"Wankhede Stadium, Mumbai",80,4.0,198.06
+IPL2024_276,Rohit Sharma,Sunrisers Hyderabad,Batsman,27.0,"MA Chidambaram Stadium, Chennai",97,2.0,71.61
+IPL2024_277,Virat Kohli,Mumbai Indians,Bowler,22.0,"Wankhede Stadium, Mumbai",87,1.0,133.02
+IPL2024_278,Yuzvendra Chahal,Kolkata Knight Riders,Bowler,29.0,"M. Chinnaswamy Stadium, Bengaluru",95,3.0,206.79
+IPL2024_279,Virat Kohli,Rajasthan Royals,Batsman,21.0,"Wankhede Stadium, Mumbai",64,1.0,84.44
+IPL2024_280,Hardik Pandya,Mumbai Indians,Batsman,30.0,"Wankhede Stadium, Mumbai",7,1.0,146.69
+IPL2024_281,Faf du Plessis,Lucknow Super Giants,Wicketkeeper,29.0,"Narendra Modi Stadium, Ahmedabad",44,1.0,207.05
+IPL2024_282,Andre Russell,Lucknow Super Giants,Bowler,33.0,"Arun Jaitley Stadium, Delhi",86,2.0,147.77
+IPL2024_283,KL Rahul,Chennai Super Kings,Batsman,26.0,"Eden Gardens, Kolkata",46,0.0,96.57
+IPL2024_284,MS Dhoni,Royal Challengers Bengaluru,Bowler,21.0,"MA Chidambaram Stadium, Chennai",39,3.0,151.51
+IPL2024_285,Glenn Maxwell,Punjab Kings,Batsman,28.0,"Wankhede Stadium, Mumbai",75,0.0,98.62
+IPL2024_286,Glenn Maxwell,Sunrisers Hyderabad,Bowler,35.0,"MA Chidambaram Stadium, Chennai",53,0.0,142.76
+IPL2024_287,Mohammed Shami,Delhi Capitals,Batsman,32.0,"Arun Jaitley Stadium, Delhi",75,,
+IPL2024_288,Sanju Samson,Rajasthan Royals,Batsman,,"Arun Jaitley Stadium, Delhi",45,1.0,154.77
+IPL2024_289,Jasprit Bumrah,Kolkata Knight Riders,Batsman,23.0,"Wankhede Stadium, Mumbai",46,4.0,142.35
+IPL2024_290,MS Dhoni,Punjab Kings,Wicketkeeper,,"M. Chinnaswamy Stadium, Bengaluru",14,1.0,173.62
+IPL2024_291,Shubman Gill,Mumbai Indians,Allrounder,31.0,"Wankhede Stadium, Mumbai",104,1.0,158.3
+IPL2024_292,Hardik Pandya,Lucknow Super Giants,Batsman,36.0,"Narendra Modi Stadium, Ahmedabad",18,0.0,146.94
+IPL2024_293,Glenn Maxwell,Rajasthan Royals,Batsman,,"Eden Gardens, Kolkata",25,1.0,166.57
+IPL2024_294,Sanju Samson,Delhi Capitals,Allrounder,33.0,"M. Chinnaswamy Stadium, Bengaluru",51,0.0,90.15
+IPL2024_295,MS Dhoni,Sunrisers Hyderabad,Batsman,21.0,"Wankhede Stadium, Mumbai",92,4.0,153.35
+IPL2024_296,Virat Kohli,Chennai Super Kings,Batsman,30.0,"MA Chidambaram Stadium, Chennai",21,3.0,94.1
+IPL2024_297,Jos Buttler,Delhi Capitals,Wicketkeeper,35.0,"M. Chinnaswamy Stadium, Bengaluru",103,0.0,
+IPL2024_298,Virat Kohli,Rajasthan Royals,Batsman,38.0,"M. Chinnaswamy Stadium, Bengaluru",20,4.0,79.57
+IPL2024_299,MS Dhoni,Delhi Capitals,Bowler,,"Wankhede Stadium, Mumbai",50,3.0,130.25
+IPL2024_300,David Warner,Rajasthan Royals,Wicketkeeper,38.0,"M. Chinnaswamy Stadium, Bengaluru",37,2.0,167.41
+IPL2024_301,Suryakumar Yadav,Rajasthan Royals,Batsman,24.0,"MA Chidambaram Stadium, Chennai",19,0.0,134.12
+IPL2024_302,MS Dhoni,Gujarat Titans,Batsman,23.0,"Arun Jaitley Stadium, Delhi",28,0.0,82.89
+IPL2024_303,Rishabh Pant,Kolkata Knight Riders,Batsman,34.0,"M. Chinnaswamy Stadium, Bengaluru",50,2.0,147.47
+IPL2024_304,Sanju Samson,Lucknow Super Giants,Allrounder,23.0,"Arun Jaitley Stadium, Delhi",3,2.0,159.83
+IPL2024_305,David Warner,Gujarat Titans,Allrounder,29.0,"MA Chidambaram Stadium, Chennai",54,0.0,168.53
+IPL2024_306,Yuzvendra Chahal,Sunrisers Hyderabad,Allrounder,22.0,"Wankhede Stadium, Mumbai",70,2.0,122.26
+IPL2024_307,Rohit Sharma,Gujarat Titans,Batsman,24.0,"Eden Gardens, Kolkata",91,1.0,148.91
+IPL2024_308,Suryakumar Yadav,Royal Challengers Bengaluru,Allrounder,25.0,"M. Chinnaswamy Stadium, Bengaluru",27,3.0,133.1
+IPL2024_309,Rohit Sharma,Royal Challengers Bengaluru,Wicketkeeper,27.0,"Eden Gardens, Kolkata",3,3.0,164.09
+IPL2024_310,Glenn Maxwell,Lucknow Super Giants,Bowler,26.0,"MA Chidambaram Stadium, Chennai",21,3.0,151.7
+IPL2024_311,Rishabh Pant,Delhi Capitals,Wicketkeeper,29.0,"M. Chinnaswamy Stadium, Bengaluru",75,1.0,143.61
+IPL2024_312,Virat Kohli,Kolkata Knight Riders,Allrounder,25.0,"Arun Jaitley Stadium, Delhi",44,2.0,104.93
+IPL2024_313,Shubman Gill,Lucknow Super Giants,Bowler,33.0,"Narendra Modi Stadium, Ahmedabad",66,4.0,70.28
+IPL2024_314,Shreyas Iyer,Rajasthan Royals,Bowler,23.0,"Eden Gardens, Kolkata",85,2.0,94.37
+IPL2024_315,Faf du Plessis,Mumbai Indians,Batsman,32.0,"M. Chinnaswamy Stadium, Bengaluru",107,0.0,
+IPL2024_316,Ravindra Jadeja,Kolkata Knight Riders,Batsman,36.0,"Eden Gardens, Kolkata",65,3.0,132.87
+IPL2024_317,Suryakumar Yadav,,Bowler,26.0,"M. Chinnaswamy Stadium, Bengaluru",87,2.0,
+IPL2024_318,MS Dhoni,Rajasthan Royals,Batsman,23.0,"Wankhede Stadium, Mumbai",33,4.0,99.83
+IPL2024_319,David Warner,Rajasthan Royals,Allrounder,33.0,"Arun Jaitley Stadium, Delhi",90,0.0,201.47
+IPL2024_320,Rashid Khan,Chennai Super Kings,Wicketkeeper,22.0,"Eden Gardens, Kolkata",54,1.0,
+IPL2024_321,Ravindra Jadeja,Lucknow Super Giants,Allrounder,24.0,"Narendra Modi Stadium, Ahmedabad",104,1.0,178.12
+IPL2024_322,KL Rahul,Rajasthan Royals,Batsman,35.0,"Narendra Modi Stadium, Ahmedabad",0,4.0,157.53
+IPL2024_323,Rashid Khan,Royal Challengers Bengaluru,Batsman,23.0,"MA Chidambaram Stadium, Chennai",71,0.0,122.3
+IPL2024_324,Jos Buttler,Sunrisers Hyderabad,Batsman,21.0,"M. Chinnaswamy Stadium, Bengaluru",86,3.0,77.07
+IPL2024_325,Virat Kohli,Mumbai Indians,Bowler,37.0,"Eden Gardens, Kolkata",37,,157.85
+IPL2024_326,Rishabh Pant,Lucknow Super Giants,Allrounder,38.0,"MA Chidambaram Stadium, Chennai",5,0.0,123.99
+IPL2024_327,Sanju Samson,Punjab Kings,Wicketkeeper,38.0,"Eden Gardens, Kolkata",85,1.0,201.08
+IPL2024_328,Faf du Plessis,Royal Challengers Bengaluru,Bowler,36.0,"M. Chinnaswamy Stadium, Bengaluru",24,4.0,145.88
+IPL2024_329,Sanju Samson,Delhi Capitals,Wicketkeeper,33.0,"Narendra Modi Stadium, Ahmedabad",81,4.0,201.55
+IPL2024_330,Mohammed Shami,Rajasthan Royals,Allrounder,38.0,"Wankhede Stadium, Mumbai",16,2.0,100.87
+IPL2024_331,Andre Russell,Punjab Kings,Batsman,32.0,"Narendra Modi Stadium, Ahmedabad",60,4.0,171.6
+IPL2024_332,Yuzvendra Chahal,Rajasthan Royals,Allrounder,31.0,"MA Chidambaram Stadium, Chennai",11,4.0,156.41
+IPL2024_333,Rohit Sharma,Kolkata Knight Riders,Batsman,25.0,"Arun Jaitley Stadium, Delhi",5,0.0,173.52
+IPL2024_334,Rohit Sharma,Royal Challengers Bengaluru,Batsman,23.0,"Wankhede Stadium, Mumbai",89,3.0,100.05
+IPL2024_335,Andre Russell,Kolkata Knight Riders,Bowler,38.0,"MA Chidambaram Stadium, Chennai",26,2.0,163.1
+IPL2024_336,Glenn Maxwell,Chennai Super Kings,Batsman,35.0,"M. Chinnaswamy Stadium, Bengaluru",7,0.0,139.73
+IPL2024_337,Jos Buttler,Kolkata Knight Riders,Bowler,32.0,"Wankhede Stadium, Mumbai",82,3.0,174.0
+IPL2024_338,Suryakumar Yadav,Chennai Super Kings,Bowler,23.0,"MA Chidambaram Stadium, Chennai",105,0.0,115.79
+IPL2024_339,Jasprit Bumrah,Chennai Super Kings,Bowler,36.0,"M. Chinnaswamy Stadium, Bengaluru",64,0.0,194.61
+IPL2024_340,Yuzvendra Chahal,Punjab Kings,Batsman,20.0,"Narendra Modi Stadium, Ahmedabad",56,4.0,81.8
+IPL2024_341,Shreyas Iyer,Rajasthan Royals,Bowler,,"Arun Jaitley Stadium, Delhi",92,3.0,183.01
+IPL2024_342,Hardik Pandya,Delhi Capitals,Bowler,36.0,"M. Chinnaswamy Stadium, Bengaluru",108,2.0,190.58
+IPL2024_343,Virat Kohli,,Bowler,34.0,"Eden Gardens, Kolkata",112,2.0,184.42
+IPL2024_344,Rishabh Pant,Royal Challengers Bengaluru,Bowler,30.0,"M. Chinnaswamy Stadium, Bengaluru",98,3.0,141.78
+IPL2024_345,Mohammed Shami,Chennai Super Kings,Batsman,32.0,"M. Chinnaswamy Stadium, Bengaluru",39,4.0,131.37
+IPL2024_346,Mohammed Shami,Rajasthan Royals,Bowler,20.0,"Arun Jaitley Stadium, Delhi",13,,209.48
+IPL2024_347,Hardik Pandya,Mumbai Indians,Batsman,36.0,"Eden Gardens, Kolkata",34,0.0,102.08
+IPL2024_348,Ravindra Jadeja,,Bowler,25.0,"MA Chidambaram Stadium, Chennai",47,4.0,146.56
+IPL2024_349,KL Rahul,Punjab Kings,Allrounder,23.0,"MA Chidambaram Stadium, Chennai",108,3.0,163.89
+IPL2024_350,Jasprit Bumrah,Delhi Capitals,Bowler,35.0,"M. Chinnaswamy Stadium, Bengaluru",83,0.0,168.12
+IPL2024_351,Rashid Khan,Gujarat Titans,Bowler,34.0,"Eden Gardens, Kolkata",55,2.0,98.56
+IPL2024_352,Jos Buttler,Punjab Kings,Wicketkeeper,34.0,"Eden Gardens, Kolkata",48,1.0,161.56
+IPL2024_353,Yuzvendra Chahal,Mumbai Indians,Allrounder,25.0,"Arun Jaitley Stadium, Delhi",12,2.0,184.57
+IPL2024_354,MS Dhoni,Lucknow Super Giants,Wicketkeeper,34.0,"Narendra Modi Stadium, Ahmedabad",60,3.0,77.0
+IPL2024_355,Rishabh Pant,Mumbai Indians,Allrounder,33.0,"MA Chidambaram Stadium, Chennai",101,0.0,197.61
+IPL2024_356,Jos Buttler,Kolkata Knight Riders,Batsman,30.0,"Arun Jaitley Stadium, Delhi",48,3.0,74.13
+IPL2024_357,Faf du Plessis,Chennai Super Kings,Batsman,26.0,"Wankhede Stadium, Mumbai",45,0.0,119.84
+IPL2024_358,Rashid Khan,Delhi Capitals,Bowler,,"MA Chidambaram Stadium, Chennai",112,4.0,72.21
+IPL2024_359,David Warner,Sunrisers Hyderabad,Batsman,35.0,"Arun Jaitley Stadium, Delhi",61,1.0,80.8
+IPL2024_360,Suryakumar Yadav,Chennai Super Kings,Bowler,24.0,"MA Chidambaram Stadium, Chennai",7,4.0,
+IPL2024_361,Andre Russell,Sunrisers Hyderabad,Batsman,29.0,"Narendra Modi Stadium, Ahmedabad",42,4.0,119.68
+IPL2024_362,Glenn Maxwell,Lucknow Super Giants,Bowler,37.0,"Wankhede Stadium, Mumbai",19,3.0,129.47
+IPL2024_363,Andre Russell,Rajasthan Royals,Allrounder,,"Narendra Modi Stadium, Ahmedabad",96,1.0,100.15
+IPL2024_364,Hardik Pandya,Gujarat Titans,Allrounder,32.0,"Wankhede Stadium, Mumbai",89,0.0,153.59
+IPL2024_365,Shubman Gill,Royal Challengers Bengaluru,Bowler,30.0,"M. Chinnaswamy Stadium, Bengaluru",38,0.0,153.27
+IPL2024_366,Mohammed Shami,Chennai Super Kings,Allrounder,36.0,"Arun Jaitley Stadium, Delhi",84,2.0,122.11
+IPL2024_367,Virat Kohli,Delhi Capitals,Bowler,32.0,"Wankhede Stadium, Mumbai",48,0.0,116.62
+IPL2024_368,Virat Kohli,Mumbai Indians,Allrounder,25.0,"Narendra Modi Stadium, Ahmedabad",63,3.0,193.9
+IPL2024_369,Yuzvendra Chahal,Delhi Capitals,Batsman,36.0,"MA Chidambaram Stadium, Chennai",61,4.0,123.66
+IPL2024_370,Rohit Sharma,Lucknow Super Giants,Wicketkeeper,32.0,"Wankhede Stadium, Mumbai",105,4.0,139.09
+IPL2024_371,Faf du Plessis,Sunrisers Hyderabad,Bowler,38.0,"Arun Jaitley Stadium, Delhi",106,4.0,109.66
+IPL2024_372,Rishabh Pant,Mumbai Indians,Batsman,38.0,"Wankhede Stadium, Mumbai",53,1.0,180.15
+IPL2024_373,Rashid Khan,Royal Challengers Bengaluru,Batsman,29.0,"Eden Gardens, Kolkata",104,0.0,125.64
+IPL2024_374,Virat Kohli,Royal Challengers Bengaluru,Bowler,22.0,"MA Chidambaram Stadium, Chennai",8,3.0,141.91
+IPL2024_375,Faf du Plessis,Chennai Super Kings,Batsman,33.0,"Arun Jaitley Stadium, Delhi",87,1.0,105.47
+IPL2024_376,Ravindra Jadeja,Lucknow Super Giants,Batsman,38.0,"Arun Jaitley Stadium, Delhi",36,2.0,208.27
+IPL2024_377,Hardik Pandya,Rajasthan Royals,Bowler,,"M. Chinnaswamy Stadium, Bengaluru",48,3.0,110.81
+IPL2024_378,MS Dhoni,Lucknow Super Giants,Bowler,24.0,"Narendra Modi Stadium, Ahmedabad",40,3.0,177.9
+IPL2024_379,Mohammed Shami,Sunrisers Hyderabad,Bowler,36.0,"M. Chinnaswamy Stadium, Bengaluru",16,3.0,129.85
+IPL2024_380,Faf du Plessis,Delhi Capitals,Wicketkeeper,29.0,"Arun Jaitley Stadium, Delhi",87,4.0,98.87
+IPL2024_381,Andre Russell,Royal Challengers Bengaluru,Bowler,24.0,"MA Chidambaram Stadium, Chennai",20,3.0,181.96
+IPL2024_382,Hardik Pandya,Delhi Capitals,Bowler,23.0,"Wankhede Stadium, Mumbai",50,0.0,116.7
+IPL2024_383,Sanju Samson,Delhi Capitals,Batsman,25.0,"Wankhede Stadium, Mumbai",58,3.0,191.13
+IPL2024_384,Hardik Pandya,Delhi Capitals,Allrounder,23.0,"MA Chidambaram Stadium, Chennai",38,4.0,198.14
+IPL2024_385,Yuzvendra Chahal,Royal Challengers Bengaluru,Batsman,26.0,"Arun Jaitley Stadium, Delhi",54,3.0,190.38
+IPL2024_386,Glenn Maxwell,Punjab Kings,Wicketkeeper,26.0,"Wankhede Stadium, Mumbai",40,,74.9
+IPL2024_387,Sanju Samson,,Allrounder,37.0,"Wankhede Stadium, Mumbai",38,2.0,180.23
+IPL2024_388,Jos Buttler,Sunrisers Hyderabad,Bowler,22.0,"Wankhede Stadium, Mumbai",12,4.0,127.59
+IPL2024_389,Hardik Pandya,Punjab Kings,Batsman,20.0,"Narendra Modi Stadium, Ahmedabad",63,0.0,192.32
+IPL2024_390,Mohammed Shami,Sunrisers Hyderabad,Allrounder,23.0,"Narendra Modi Stadium, Ahmedabad",10,0.0,
+IPL2024_391,Faf du Plessis,Mumbai Indians,Allrounder,25.0,"Eden Gardens, Kolkata",109,1.0,186.71
+IPL2024_392,Faf du Plessis,Lucknow Super Giants,Batsman,28.0,"M. Chinnaswamy Stadium, Bengaluru",18,4.0,139.92
+IPL2024_393,Ravindra Jadeja,Lucknow Super Giants,Batsman,33.0,"MA Chidambaram Stadium, Chennai",10,3.0,144.9
+IPL2024_394,KL Rahul,Gujarat Titans,Allrounder,,"MA Chidambaram Stadium, Chennai",76,4.0,90.21
+IPL2024_395,Virat Kohli,Lucknow Super Giants,Batsman,23.0,"MA Chidambaram Stadium, Chennai",45,,179.76
+IPL2024_396,Hardik Pandya,Royal Challengers Bengaluru,Wicketkeeper,31.0,"Eden Gardens, Kolkata",44,4.0,128.71
+IPL2024_397,Suryakumar Yadav,Rajasthan Royals,Bowler,29.0,"Narendra Modi Stadium, Ahmedabad",0,4.0,140.01
+IPL2024_398,Hardik Pandya,Chennai Super Kings,Batsman,26.0,"Arun Jaitley Stadium, Delhi",39,1.0,
+IPL2024_399,KL Rahul,Gujarat Titans,Allrounder,22.0,"Arun Jaitley Stadium, Delhi",107,0.0,153.84
+IPL2024_400,Rohit Sharma,Chennai Super Kings,Batsman,33.0,"Eden Gardens, Kolkata",18,3.0,98.15
+IPL2024_401,Jos Buttler,Sunrisers Hyderabad,Bowler,29.0,"Arun Jaitley Stadium, Delhi",75,1.0,152.63
+IPL2024_402,Suryakumar Yadav,Chennai Super Kings,Batsman,35.0,"MA Chidambaram Stadium, Chennai",71,2.0,127.07
+IPL2024_403,Andre Russell,Chennai Super Kings,Batsman,35.0,"M. Chinnaswamy Stadium, Bengaluru",71,,135.73
+IPL2024_404,Virat Kohli,Gujarat Titans,Bowler,29.0,"Wankhede Stadium, Mumbai",60,2.0,73.96
+IPL2024_405,Hardik Pandya,Mumbai Indians,Bowler,32.0,"Narendra Modi Stadium, Ahmedabad",108,0.0,99.4
+IPL2024_406,Rashid Khan,Delhi Capitals,Bowler,25.0,"Narendra Modi Stadium, Ahmedabad",11,3.0,109.35
+IPL2024_407,KL Rahul,Lucknow Super Giants,Allrounder,31.0,"Eden Gardens, Kolkata",60,3.0,169.81
+IPL2024_408,Faf du Plessis,Lucknow Super Giants,Bowler,28.0,"Narendra Modi Stadium, Ahmedabad",111,4.0,71.61
+IPL2024_409,Faf du Plessis,Royal Challengers Bengaluru,Batsman,32.0,"MA Chidambaram Stadium, Chennai",32,2.0,127.23
+IPL2024_410,Rohit Sharma,Gujarat Titans,Batsman,,"Arun Jaitley Stadium, Delhi",44,0.0,199.36
+IPL2024_411,Glenn Maxwell,,Wicketkeeper,30.0,"MA Chidambaram Stadium, Chennai",89,3.0,85.66
+IPL2024_412,Jos Buttler,Rajasthan Royals,Allrounder,37.0,"Eden Gardens, Kolkata",102,1.0,142.3
+IPL2024_413,Mohammed Shami,Rajasthan Royals,Bowler,30.0,"MA Chidambaram Stadium, Chennai",91,3.0,180.11
+IPL2024_414,David Warner,Royal Challengers Bengaluru,Batsman,23.0,"Arun Jaitley Stadium, Delhi",68,1.0,201.95
+IPL2024_415,MS Dhoni,Gujarat Titans,Batsman,37.0,"M. Chinnaswamy Stadium, Bengaluru",7,0.0,174.55
+IPL2024_416,Virat Kohli,Royal Challengers Bengaluru,Allrounder,20.0,"Eden Gardens, Kolkata",24,3.0,170.88
+IPL2024_417,Virat Kohli,Lucknow Super Giants,Allrounder,26.0,"M. Chinnaswamy Stadium, Bengaluru",90,3.0,
+IPL2024_418,Andre Russell,Punjab Kings,Bowler,25.0,"Wankhede Stadium, Mumbai",45,0.0,132.47
+IPL2024_419,Shreyas Iyer,Kolkata Knight Riders,Allrounder,34.0,"M. Chinnaswamy Stadium, Bengaluru",86,3.0,182.82
+IPL2024_420,Hardik Pandya,Chennai Super Kings,Allrounder,37.0,"Wankhede Stadium, Mumbai",29,1.0,71.12
+IPL2024_421,Mohammed Shami,Kolkata Knight Riders,Batsman,30.0,"Wankhede Stadium, Mumbai",108,3.0,199.44
+IPL2024_422,MS Dhoni,Gujarat Titans,Bowler,34.0,"M. Chinnaswamy Stadium, Bengaluru",46,2.0,132.06
+IPL2024_423,Virat Kohli,Kolkata Knight Riders,Batsman,35.0,"Eden Gardens, Kolkata",86,4.0,147.47
+IPL2024_424,Virat Kohli,Rajasthan Royals,Batsman,,"Arun Jaitley Stadium, Delhi",48,1.0,105.68
+IPL2024_425,Rishabh Pant,Sunrisers Hyderabad,Allrounder,29.0,"MA Chidambaram Stadium, Chennai",46,2.0,173.95
+IPL2024_426,Suryakumar Yadav,Chennai Super Kings,Bowler,31.0,"MA Chidambaram Stadium, Chennai",83,0.0,80.73
+IPL2024_427,Shreyas Iyer,Delhi Capitals,Bowler,33.0,"Arun Jaitley Stadium, Delhi",81,,192.17
+IPL2024_428,Mohammed Shami,Gujarat Titans,Batsman,24.0,"Wankhede Stadium, Mumbai",17,,185.94
+IPL2024_429,Rashid Khan,Chennai Super Kings,Batsman,37.0,"Wankhede Stadium, Mumbai",65,4.0,100.25
+IPL2024_430,Mohammed Shami,Kolkata Knight Riders,Batsman,24.0,"Eden Gardens, Kolkata",67,0.0,183.31
+IPL2024_431,Sanju Samson,Rajasthan Royals,Batsman,22.0,"Narendra Modi Stadium, Ahmedabad",93,0.0,180.09
+IPL2024_432,Rohit Sharma,Mumbai Indians,Bowler,24.0,"M. Chinnaswamy Stadium, Bengaluru",32,1.0,158.51
+IPL2024_433,Andre Russell,Punjab Kings,Batsman,36.0,"Wankhede Stadium, Mumbai",35,3.0,122.29
+IPL2024_434,David Warner,Delhi Capitals,Bowler,38.0,"MA Chidambaram Stadium, Chennai",81,0.0,108.01
+IPL2024_435,MS Dhoni,Punjab Kings,Batsman,38.0,"Eden Gardens, Kolkata",100,3.0,102.45
+IPL2024_436,Glenn Maxwell,,Batsman,31.0,"M. Chinnaswamy Stadium, Bengaluru",18,2.0,114.61
+IPL2024_437,Rishabh Pant,Rajasthan Royals,Batsman,28.0,"Eden Gardens, Kolkata",110,4.0,196.5
+IPL2024_438,Suryakumar Yadav,Rajasthan Royals,Bowler,20.0,"M. Chinnaswamy Stadium, Bengaluru",27,3.0,80.87
+IPL2024_439,Rohit Sharma,Kolkata Knight Riders,Bowler,37.0,"M. Chinnaswamy Stadium, Bengaluru",39,4.0,186.04
+IPL2024_440,Andre Russell,Lucknow Super Giants,Bowler,23.0,"Arun Jaitley Stadium, Delhi",83,3.0,
+IPL2024_441,Shubman Gill,Kolkata Knight Riders,Bowler,29.0,"Wankhede Stadium, Mumbai",112,2.0,143.02
+IPL2024_442,Ravindra Jadeja,Lucknow Super Giants,Allrounder,26.0,"Eden Gardens, Kolkata",96,0.0,181.23
+IPL2024_443,KL Rahul,,Batsman,20.0,"Eden Gardens, Kolkata",75,2.0,193.81
+IPL2024_444,David Warner,Delhi Capitals,Batsman,36.0,"Arun Jaitley Stadium, Delhi",114,0.0,118.27
+IPL2024_445,Rashid Khan,Kolkata Knight Riders,Allrounder,,"MA Chidambaram Stadium, Chennai",14,0.0,134.66
+IPL2024_446,Shreyas Iyer,Mumbai Indians,Bowler,30.0,"MA Chidambaram Stadium, Chennai",40,4.0,128.03
+IPL2024_447,KL Rahul,Royal Challengers Bengaluru,Batsman,28.0,"Wankhede Stadium, Mumbai",38,2.0,71.86
+IPL2024_448,KL Rahul,Royal Challengers Bengaluru,Wicketkeeper,26.0,"Wankhede Stadium, Mumbai",1,3.0,111.43
+IPL2024_449,Suryakumar Yadav,Kolkata Knight Riders,Allrounder,36.0,"Narendra Modi Stadium, Ahmedabad",62,,
+IPL2024_450,Hardik Pandya,Kolkata Knight Riders,Batsman,36.0,"Arun Jaitley Stadium, Delhi",28,4.0,127.55
+IPL2024_451,Shubman Gill,Punjab Kings,Bowler,21.0,"MA Chidambaram Stadium, Chennai",104,0.0,171.07
+IPL2024_452,MS Dhoni,Delhi Capitals,Bowler,25.0,"M. Chinnaswamy Stadium, Bengaluru",73,4.0,123.87
+IPL2024_453,Glenn Maxwell,Kolkata Knight Riders,Bowler,33.0,"Eden Gardens, Kolkata",65,1.0,138.51
+IPL2024_454,MS Dhoni,Punjab Kings,Batsman,25.0,"Wankhede Stadium, Mumbai",50,1.0,130.15
+IPL2024_455,Faf du Plessis,Lucknow Super Giants,Batsman,21.0,"Eden Gardens, Kolkata",74,3.0,173.69
+IPL2024_456,KL Rahul,Rajasthan Royals,Bowler,,"Eden Gardens, Kolkata",76,4.0,190.82
+IPL2024_457,David Warner,Rajasthan Royals,Bowler,29.0,"Narendra Modi Stadium, Ahmedabad",9,3.0,144.46
+IPL2024_458,Glenn Maxwell,Lucknow Super Giants,Allrounder,24.0,"MA Chidambaram Stadium, Chennai",13,3.0,180.52
+IPL2024_459,Ravindra Jadeja,,Bowler,21.0,"Wankhede Stadium, Mumbai",81,1.0,111.55
+IPL2024_460,Hardik Pandya,,Batsman,,"Eden Gardens, Kolkata",50,3.0,145.79
+IPL2024_461,Mohammed Shami,Punjab Kings,Bowler,,"Wankhede Stadium, Mumbai",72,1.0,118.33
+IPL2024_462,Glenn Maxwell,Lucknow Super Giants,Batsman,29.0,"M. Chinnaswamy Stadium, Bengaluru",38,0.0,127.99
+IPL2024_463,Rashid Khan,Mumbai Indians,Bowler,21.0,"Narendra Modi Stadium, Ahmedabad",27,4.0,172.54
+IPL2024_464,MS Dhoni,Sunrisers Hyderabad,Bowler,35.0,"M. Chinnaswamy Stadium, Bengaluru",2,3.0,193.43
+IPL2024_465,Shubman Gill,Chennai Super Kings,Batsman,35.0,"Wankhede Stadium, Mumbai",83,1.0,87.01
+IPL2024_466,Glenn Maxwell,Lucknow Super Giants,Bowler,38.0,"Wankhede Stadium, Mumbai",69,2.0,158.85
+IPL2024_467,Glenn Maxwell,Kolkata Knight Riders,Batsman,26.0,"MA Chidambaram Stadium, Chennai",26,3.0,151.5
+IPL2024_468,Jos Buttler,Kolkata Knight Riders,Batsman,31.0,"Eden Gardens, Kolkata",1,0.0,86.58
+IPL2024_469,Faf du Plessis,Delhi Capitals,Batsman,34.0,"Eden Gardens, Kolkata",92,0.0,99.67
+IPL2024_470,Rashid Khan,Lucknow Super Giants,Batsman,27.0,"M. Chinnaswamy Stadium, Bengaluru",37,2.0,113.54
+IPL2024_471,Andre Russell,,Wicketkeeper,25.0,"Narendra Modi Stadium, Ahmedabad",2,1.0,93.37
+IPL2024_472,Glenn Maxwell,Lucknow Super Giants,Bowler,29.0,"Arun Jaitley Stadium, Delhi",15,3.0,104.12
+IPL2024_473,KL Rahul,Punjab Kings,Batsman,22.0,"Eden Gardens, Kolkata",93,1.0,107.46
+IPL2024_474,Mohammed Shami,Chennai Super Kings,Bowler,38.0,"MA Chidambaram Stadium, Chennai",39,0.0,116.99
+IPL2024_475,Shubman Gill,Punjab Kings,Batsman,36.0,"M. Chinnaswamy Stadium, Bengaluru",1,1.0,174.91
+IPL2024_476,Andre Russell,Sunrisers Hyderabad,Wicketkeeper,26.0,"M. Chinnaswamy Stadium, Bengaluru",80,0.0,150.07
+IPL2024_477,Mohammed Shami,,Bowler,23.0,"Arun Jaitley Stadium, Delhi",40,1.0,208.07
+IPL2024_478,Shubman Gill,Royal Challengers Bengaluru,Allrounder,33.0,"MA Chidambaram Stadium, Chennai",11,2.0,128.06
+IPL2024_479,Ravindra Jadeja,Lucknow Super Giants,Batsman,34.0,"Narendra Modi Stadium, Ahmedabad",34,4.0,175.54
+IPL2024_480,Sanju Samson,Sunrisers Hyderabad,Bowler,27.0,"MA Chidambaram Stadium, Chennai",106,2.0,192.01
+IPL2024_481,Jos Buttler,Rajasthan Royals,Bowler,34.0,"Narendra Modi Stadium, Ahmedabad",64,2.0,165.06
+IPL2024_482,Andre Russell,Gujarat Titans,Allrounder,33.0,"MA Chidambaram Stadium, Chennai",54,4.0,127.66
+IPL2024_483,Yuzvendra Chahal,Chennai Super Kings,Batsman,28.0,"MA Chidambaram Stadium, Chennai",44,4.0,175.5
+IPL2024_484,Faf du Plessis,Delhi Capitals,Batsman,27.0,"Wankhede Stadium, Mumbai",78,3.0,98.51
+IPL2024_485,Hardik Pandya,Delhi Capitals,Wicketkeeper,36.0,"M. Chinnaswamy Stadium, Bengaluru",89,3.0,115.86
+IPL2024_486,MS Dhoni,Punjab Kings,Bowler,21.0,"MA Chidambaram Stadium, Chennai",100,2.0,146.54
+IPL2024_487,Mohammed Shami,Kolkata Knight Riders,Batsman,22.0,"Arun Jaitley Stadium, Delhi",84,2.0,150.56
+IPL2024_488,Jos Buttler,Rajasthan Royals,Batsman,27.0,"MA Chidambaram Stadium, Chennai",61,0.0,73.1
+IPL2024_489,KL Rahul,Gujarat Titans,Wicketkeeper,31.0,"Eden Gardens, Kolkata",48,0.0,202.32
+IPL2024_490,Faf du Plessis,Sunrisers Hyderabad,Batsman,20.0,"M. Chinnaswamy Stadium, Bengaluru",94,3.0,167.53
+IPL2024_491,Ravindra Jadeja,Chennai Super Kings,Allrounder,29.0,"Eden Gardens, Kolkata",24,3.0,139.4
+IPL2024_492,Rashid Khan,Rajasthan Royals,Allrounder,22.0,"M. Chinnaswamy Stadium, Bengaluru",22,0.0,200.64
+IPL2024_493,Suryakumar Yadav,Gujarat Titans,Batsman,25.0,"Eden Gardens, Kolkata",23,0.0,131.47
+IPL2024_494,Ravindra Jadeja,Royal Challengers Bengaluru,Bowler,,"MA Chidambaram Stadium, Chennai",37,1.0,207.26
+IPL2024_495,Sanju Samson,Lucknow Super Giants,Batsman,37.0,"MA Chidambaram Stadium, Chennai",27,,141.72
+IPL2024_496,Hardik Pandya,Delhi Capitals,Batsman,30.0,"Wankhede Stadium, Mumbai",20,0.0,86.0
+IPL2024_497,MS Dhoni,,Allrounder,38.0,"Arun Jaitley Stadium, Delhi",53,1.0,177.07
+IPL2024_498,Shreyas Iyer,Delhi Capitals,Allrounder,24.0,"Eden Gardens, Kolkata",106,4.0,165.05
+IPL2024_499,Shreyas Iyer,Sunrisers Hyderabad,Bowler,,"Narendra Modi Stadium, Ahmedabad",17,3.0,178.22
+IPL2024_500,David Warner,Punjab Kings,Bowler,30.0,"Wankhede Stadium, Mumbai",35,3.0,203.2
