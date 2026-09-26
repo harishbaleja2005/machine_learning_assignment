@@ -1,0 +1,501 @@
+restaurant_name,location,cuisine,cost,rating,votes
+Restaurant_001,HSR Layout,North Indian,522.2751008073606,3.9,425
+Restaurant_002,Jayanagar,Fast Food,579.5061156823564,,683
+Restaurant_003,Whitefield,Fast Food,542.6621265163958,4.0,1152
+Restaurant_004,Jayanagar,Continental,447.6032306120644,3.8,1119
+Restaurant_005,Jayanagar,South Indian,766.9825697806895,4.0,561
+Restaurant_006,Indiranagar,South Indian,459.1674592561368,3.3,1357
+Restaurant_007,Whitefield,Fast Food,844.6598890229436,4.1,1017
+Restaurant_008,Whitefield,Continental,732.4166616928021,3.6,1160
+Restaurant_009,Whitefield,Italian,666.3681835967566,4.5,2994
+Restaurant_010,Jayanagar,South Indian,432.35271828544074,3.2,887
+Restaurant_011,HSR Layout,Italian,548.1300343010836,4.3,2086
+Restaurant_012,Whitefield,South Indian,1014.3869290390146,3.6,451
+Restaurant_013,BTM Layout,South Indian,7500.0,3.3,759
+Restaurant_014,Jayanagar,Chinese,407.8556643205071,3.3,1393
+Restaurant_015,Indiranagar,South Indian,784.7663069002291,3.4,202
+Restaurant_016,HSR Layout,North Indian,1012.9854931801262,3.7,2180
+Restaurant_017,BTM Layout,Continental,165.70815160751988,3.8,1226
+Restaurant_018,BTM Layout,Continental,940.1760673329773,3.3,2548
+Restaurant_019,Indiranagar,Italian,518.0816843689537,3.5,1189
+Restaurant_020,HSR Layout,South Indian,949.7095340076057,4.5,850
+Restaurant_021,Jayanagar,North Indian,482.8592952101191,4.3,1671
+Restaurant_022,Koramangala,Italian,150.0,3.7,1156
+Restaurant_023,HSR Layout,Chinese,180.36014674089301,3.6,2830
+Restaurant_024,Indiranagar,Italian,766.8297313314837,3.6,495
+Restaurant_025,BTM Layout,Italian,840.9028756025186,3.8,2830
+Restaurant_026,Jayanagar,South Indian,433.489181213457,3.1,1346
+Restaurant_027,HSR Layout,Chinese,,3.4,990
+Restaurant_028,Koramangala,Italian,168.46797820586403,2.8,1039
+Restaurant_029,Koramangala,North Indian,726.8720704734392,3.7,1161
+Restaurant_030,Whitefield,North Indian,326.1443300831402,3.8,1856
+Restaurant_031,Whitefield,Continental,521.8573622692443,3.3,180
+Restaurant_032,Indiranagar,Chinese,766.5895349607449,4.3,2468
+Restaurant_033,HSR Layout,Chinese,,3.0,217
+Restaurant_034,HSR Layout,Continental,615.4055595195612,2.9,1303
+Restaurant_035,BTM Layout,Italian,1102.2024832250543,3.7,679
+Restaurant_036,BTM Layout,Chinese,548.0878456668979,4.0,1795
+Restaurant_037,BTM Layout,North Indian,1042.4922392227995,4.3,1090
+Restaurant_038,Whitefield,North Indian,354.6026008698337,3.3,2030
+Restaurant_039,HSR Layout,South Indian,935.431462270349,4.0,418
+Restaurant_040,HSR Layout,Chinese,1254.5490172302652,3.5,1753
+Restaurant_041,Koramangala,Italian,150.0,3.5,1602
+Restaurant_042,Whitefield,Continental,471.0866605853331,3.9,2145
+Restaurant_043,Jayanagar,Continental,951.975244513189,3.8,2191
+Restaurant_044,Whitefield,Italian,678.9341148849526,2.8,94
+Restaurant_045,Jayanagar,Fast Food,879.9010556799581,4.2,2204
+Restaurant_046,Koramangala,South Indian,8900.0,4.2,621
+Restaurant_047,Indiranagar,Continental,780.306425615515,3.3,3491
+Restaurant_048,HSR Layout,Chinese,695.5129676127722,3.7,856
+Restaurant_049,Koramangala,South Indian,1158.7237215809325,3.8,1548
+Restaurant_050,HSR Layout,Chinese,839.0472951554245,3.7,519
+Restaurant_051,BTM Layout,North Indian,868.1609317263208,3.3,1616
+Restaurant_052,Indiranagar,South Indian,605.8430618571364,3.2,157
+Restaurant_053,Indiranagar,Continental,579.3378215746272,3.5,2117
+Restaurant_054,Koramangala,South Indian,598.6046342631327,4.1,1814
+Restaurant_055,Indiranagar,South Indian,888.0582498324039,3.8,992
+Restaurant_056,Jayanagar,South Indian,602.655431712908,3.4,1662
+Restaurant_057,Indiranagar,Fast Food,851.4211999137445,3.9,1905
+Restaurant_058,HSR Layout,South Indian,,2.3,2321
+Restaurant_059,HSR Layout,Chinese,1054.8936462010925,4.1,2048
+Restaurant_060,HSR Layout,North Indian,635.8917637412555,2.8,2777
+Restaurant_061,HSR Layout,Italian,1170.4248727573806,3.4,1920
+Restaurant_062,Jayanagar,South Indian,607.173619442457,3.0,2630
+Restaurant_063,Whitefield,Continental,150.0,3.0,2824
+Restaurant_064,BTM Layout,South Indian,397.16979117890855,4.1,1469
+Restaurant_065,Koramangala,Continental,150.0,3.3,566
+Restaurant_066,HSR Layout,Chinese,626.970280585542,3.7,3393
+Restaurant_067,Indiranagar,Continental,756.4464327163431,3.5,941
+Restaurant_068,HSR Layout,Italian,1336.753059296349,3.8,600
+Restaurant_069,Indiranagar,North Indian,864.4245808174569,3.6,1392
+Restaurant_070,BTM Layout,Continental,673.3148149168975,3.0,1976
+Restaurant_071,BTM Layout,Continental,1040.291953414221,4.0,2023
+Restaurant_072,BTM Layout,North Indian,150.0,3.3,2116
+Restaurant_073,Indiranagar,Italian,832.465095337998,2.8,2984
+Restaurant_074,HSR Layout,South Indian,1019.8028178604384,3.4,3165
+Restaurant_075,BTM Layout,Continental,232.49481397705551,4.2,723
+Restaurant_076,Jayanagar,North Indian,1150.3139151224252,3.9,2328
+Restaurant_077,Indiranagar,Chinese,868.4737426230449,3.4,2423
+Restaurant_078,Indiranagar,North Indian,604.6492301347196,3.4,1645
+Restaurant_079,HSR Layout,Chinese,971.4736531371997,1.2,3351
+Restaurant_080,Indiranagar,Italian,1544.7425002315385,4.5,657
+Restaurant_081,Indiranagar,South Indian,813.6531892704733,3.7,2810
+Restaurant_082,BTM Layout,North Indian,836.8772052051177,3.7,3386
+Restaurant_083,HSR Layout,Fast Food,589.2236851609146,4.0,1029
+Restaurant_084,BTM Layout,Continental,452.55447068732286,3.7,2998
+Restaurant_085,BTM Layout,Italian,1040.6175357904858,3.4,660
+Restaurant_086,HSR Layout,North Indian,450.37066093189645,3.5,2859
+Restaurant_087,Koramangala,Continental,775.0481830267873,3.5,3404
+Restaurant_088,BTM Layout,North Indian,582.8198936322092,3.5,2679
+Restaurant_089,Jayanagar,Chinese,917.6429390112371,3.9,1881
+Restaurant_090,Jayanagar,North Indian,866.7817368504319,3.6,2876
+Restaurant_091,Indiranagar,Fast Food,1113.1389804902647,3.9,1225
+Restaurant_092,Jayanagar,North Indian,571.4942604008386,3.5,705
+Restaurant_093,Indiranagar,North Indian,655.5437726473201,3.6,1871
+Restaurant_094,Koramangala,Fast Food,407.4326994761924,2.7,3455
+Restaurant_095,HSR Layout,Italian,594.497358973361,4.0,207
+Restaurant_096,HSR Layout,North Indian,882.0551725656983,3.7,1639
+Restaurant_097,HSR Layout,Fast Food,1014.9460158258731,4.0,1707
+Restaurant_098,Jayanagar,Continental,427.24213653783113,2.2,1004
+Restaurant_099,Koramangala,Chinese,1054.362072036981,4.5,567
+Restaurant_100,Jayanagar,Chinese,1224.4732505817328,3.5,2792
+Restaurant_101,Jayanagar,North Indian,894.7022161282953,4.0,2993
+Restaurant_102,Koramangala,Italian,1406.8785343953232,3.1,1451
+Restaurant_103,Koramangala,Italian,479.17378031374943,3.8,895
+Restaurant_104,Koramangala,Continental,314.370853841004,3.1,637
+Restaurant_105,Koramangala,North Indian,150.0,3.3,2481
+Restaurant_106,HSR Layout,Chinese,1273.6155090212142,4.4,1385
+Restaurant_107,Whitefield,Italian,979.0279797239202,3.5,1263
+Restaurant_108,Whitefield,North Indian,730.5453651813407,3.6,922
+Restaurant_109,Koramangala,Italian,9500.0,3.9,182
+Restaurant_110,Whitefield,Fast Food,356.0788334455682,3.8,1994
+Restaurant_111,Whitefield,Italian,1606.0131928658893,3.6,3311
+Restaurant_112,Koramangala,Chinese,795.2274136913296,3.7,289
+Restaurant_113,Whitefield,South Indian,788.2881781117126,4.6,651
+Restaurant_114,Jayanagar,Continental,1004.0183183645422,3.5,925
+Restaurant_115,Indiranagar,Continental,918.3532311078496,3.6,3491
+Restaurant_116,Indiranagar,Chinese,828.359408497696,4.0,3273
+Restaurant_117,Koramangala,Italian,473.3339405941408,4.0,2034
+Restaurant_118,HSR Layout,North Indian,915.0139249975985,4.1,1661
+Restaurant_119,Koramangala,Italian,1408.708573766262,3.8,224
+Restaurant_120,HSR Layout,Chinese,1220.8970161542422,3.0,601
+Restaurant_121,Indiranagar,Continental,1307.615319323789,4.3,1599
+Restaurant_122,Koramangala,Italian,571.0745132490852,3.0,860
+Restaurant_123,BTM Layout,Continental,403.6383129094967,3.7,1856
+Restaurant_124,Jayanagar,North Indian,705.9745779651231,3.2,1271
+Restaurant_125,Whitefield,Continental,769.5037193010431,3.5,1739
+Restaurant_126,HSR Layout,Continental,1132.967031464832,3.7,1662
+Restaurant_127,BTM Layout,South Indian,157.63737959981324,3.7,2663
+Restaurant_128,Whitefield,South Indian,1285.3426118112147,3.7,2317
+Restaurant_129,Whitefield,Fast Food,694.6972354973537,4.3,894
+Restaurant_130,Koramangala,South Indian,,3.8,1484
+Restaurant_131,Whitefield,Continental,395.76346865894135,3.4,2263
+Restaurant_132,Jayanagar,Chinese,170.8001648469807,4.0,709
+Restaurant_133,BTM Layout,Continental,1038.10970438667,4.1,2030
+Restaurant_134,Whitefield,Chinese,775.6612885159414,3.0,3161
+Restaurant_135,Koramangala,Chinese,298.51368509063116,3.8,2706
+Restaurant_136,Jayanagar,South Indian,296.72242977773436,3.9,1442
+Restaurant_137,Indiranagar,Italian,,3.4,2021
+Restaurant_138,BTM Layout,North Indian,,4.2,691
+Restaurant_139,Whitefield,South Indian,659.1430270227384,3.5,3294
+Restaurant_140,Koramangala,South Indian,223.89996640866286,3.6,1191
+Restaurant_141,Indiranagar,Italian,663.9899275699195,3.5,1515
+Restaurant_142,Indiranagar,North Indian,654.5467505883154,3.6,963
+Restaurant_143,HSR Layout,Continental,150.0,3.1,2266
+Restaurant_144,Jayanagar,Fast Food,730.9967967187657,2.9,1469
+Restaurant_145,Whitefield,Fast Food,669.1729144269627,4.3,2559
+Restaurant_146,Koramangala,Continental,993.6722276846964,3.2,915
+Restaurant_147,HSR Layout,South Indian,1397.1346332308708,3.1,2209
+Restaurant_148,Jayanagar,North Indian,1144.297760341715,2.6,1356
+Restaurant_149,HSR Layout,South Indian,655.8889583058093,3.3,184
+Restaurant_150,BTM Layout,Chinese,362.7159319404154,3.0,2381
+Restaurant_151,Jayanagar,South Indian,1650.6759311374512,4.3,2088
+Restaurant_152,Jayanagar,South Indian,770.7264519050709,4.0,1125
+Restaurant_153,Whitefield,Continental,754.8752521695312,3.2,3222
+Restaurant_154,Jayanagar,Continental,741.5562195114989,4.6,1773
+Restaurant_155,HSR Layout,Continental,819.3296662687492,4.0,3051
+Restaurant_156,Jayanagar,Fast Food,699.4738558266201,3.4,2372
+Restaurant_157,Whitefield,Chinese,549.2182975919172,2.4,1958
+Restaurant_158,Whitefield,Continental,558.5993705658627,4.6,390
+Restaurant_159,BTM Layout,North Indian,738.5363554244005,2.9,1900
+Restaurant_160,HSR Layout,Fast Food,559.8013301031823,2.8,872
+Restaurant_161,Indiranagar,Italian,500.5039760629925,4.0,403
+Restaurant_162,Indiranagar,North Indian,787.2505796921639,4.6,1951
+Restaurant_163,Jayanagar,North Indian,660.7579739027007,4.2,2512
+Restaurant_164,BTM Layout,Continental,1276.397546003941,3.8,444
+Restaurant_165,Koramangala,Italian,150.0,3.8,2228
+Restaurant_166,Jayanagar,Italian,1132.0273981728617,3.9,3269
+Restaurant_167,BTM Layout,Fast Food,1186.1298173741702,3.9,648
+Restaurant_168,HSR Layout,Italian,150.0,3.7,914
+Restaurant_169,HSR Layout,Chinese,630.059342071878,3.6,2557
+Restaurant_170,HSR Layout,Continental,619.995696901473,3.5,3084
+Restaurant_171,HSR Layout,Italian,,3.2,2394
+Restaurant_172,HSR Layout,Fast Food,477.7641593431936,3.4,617
+Restaurant_173,BTM Layout,Chinese,361.2984540869599,2.8,3082
+Restaurant_174,BTM Layout,South Indian,1363.294655198268,3.5,2356
+Restaurant_175,Whitefield,South Indian,1077.4874376016114,3.1,612
+Restaurant_176,Indiranagar,Chinese,1195.0442832479555,3.1,1707
+Restaurant_177,HSR Layout,Fast Food,1002.5852224151323,3.6,592
+Restaurant_178,Koramangala,Chinese,354.8318800739698,4.2,3445
+Restaurant_179,BTM Layout,Continental,566.4179068020792,4.0,2095
+Restaurant_180,Koramangala,Continental,921.2810964297713,2.8,3021
+Restaurant_181,Koramangala,South Indian,322.2552668878191,3.1,2110
+Restaurant_182,Koramangala,Italian,999.5494505603358,4.0,1724
+Restaurant_183,Whitefield,Fast Food,665.8861106446527,3.1,2490
+Restaurant_184,BTM Layout,South Indian,618.8127173576408,3.4,196
+Restaurant_185,Koramangala,Italian,998.8359888712221,3.8,548
+Restaurant_186,HSR Layout,Italian,,3.1,1653
+Restaurant_187,Jayanagar,Continental,623.661841963322,3.6,985
+Restaurant_188,Koramangala,North Indian,1155.7654311774868,2.9,1537
+Restaurant_189,Whitefield,North Indian,371.6278353400359,3.3,217
+Restaurant_190,BTM Layout,Chinese,965.5774624304923,3.7,2677
+Restaurant_191,Whitefield,Continental,957.5854402889343,1.4,2909
+Restaurant_192,Koramangala,Italian,641.6587462401034,3.7,872
+Restaurant_193,BTM Layout,Fast Food,864.1465577847413,3.5,1557
+Restaurant_194,Jayanagar,North Indian,312.110248265144,3.8,2089
+Restaurant_195,Koramangala,Italian,1073.4094567224154,3.7,3203
+Restaurant_196,Whitefield,North Indian,685.2842522449538,4.2,1100
+Restaurant_197,Indiranagar,North Indian,567.0469428183362,3.6,3157
+Restaurant_198,HSR Layout,North Indian,1117.1532290429113,3.4,2909
+Restaurant_199,Whitefield,Fast Food,503.47970831003425,3.6,117
+Restaurant_200,BTM Layout,Continental,257.0385462727541,,3235
+Restaurant_201,Koramangala,Fast Food,205.17978926663375,3.6,1923
+Restaurant_202,HSR Layout,South Indian,962.1034829709738,3.6,454
+Restaurant_203,Koramangala,Italian,,3.2,656
+Restaurant_204,BTM Layout,Continental,1364.1779636945275,3.3,3177
+Restaurant_205,Koramangala,Continental,150.0,2.9,607
+Restaurant_206,Indiranagar,Continental,1343.7597289015134,4.3,363
+Restaurant_207,HSR Layout,Continental,823.8561135209164,3.0,1337
+Restaurant_208,HSR Layout,Fast Food,716.1504108453627,3.2,1999
+Restaurant_209,BTM Layout,Continental,559.2783196168676,3.2,590
+Restaurant_210,Indiranagar,Chinese,889.6976400232248,4.0,630
+Restaurant_211,Whitefield,Italian,736.8278541513031,3.4,1747
+Restaurant_212,Koramangala,Continental,1136.1556587057826,4.1,2310
+Restaurant_213,Jayanagar,Italian,789.9796770317139,3.2,1874
+Restaurant_214,Koramangala,Chinese,802.6056165116572,3.7,2628
+Restaurant_215,Koramangala,Chinese,622.7357257251505,3.2,979
+Restaurant_216,Whitefield,Italian,730.0690316976264,4.5,2099
+Restaurant_217,Koramangala,North Indian,857.7306191122207,3.0,2458
+Restaurant_218,Indiranagar,South Indian,151.4410625701811,3.7,2344
+Restaurant_219,Indiranagar,North Indian,278.1351022630004,3.8,551
+Restaurant_220,HSR Layout,North Indian,1010.1424329079503,3.7,1197
+Restaurant_221,BTM Layout,Fast Food,809.8029033447797,3.5,2450
+Restaurant_222,Jayanagar,North Indian,685.6058322765623,3.5,1111
+Restaurant_223,Koramangala,Continental,756.4518765728876,3.6,1921
+Restaurant_224,Koramangala,Fast Food,871.6535968765849,3.5,903
+Restaurant_225,Whitefield,Fast Food,561.0841118917235,4.0,2281
+Restaurant_226,BTM Layout,Chinese,477.5933461091906,4.5,1698
+Restaurant_227,Indiranagar,North Indian,818.5458392841886,3.3,2443
+Restaurant_228,Jayanagar,Chinese,407.5695278347388,2.9,2811
+Restaurant_229,HSR Layout,Italian,892.8884645000651,3.5,2280
+Restaurant_230,Indiranagar,South Indian,154.0957385167559,4.7,2146
+Restaurant_231,BTM Layout,Fast Food,6800.0,3.2,1769
+Restaurant_232,HSR Layout,Italian,915.409118844565,4.3,2695
+Restaurant_233,Whitefield,Italian,839.6104070098564,4.3,2671
+Restaurant_234,Whitefield,Continental,1093.94184438093,,801
+Restaurant_235,Koramangala,South Indian,1332.9160555619019,3.8,3472
+Restaurant_236,BTM Layout,Italian,,4.3,3068
+Restaurant_237,Jayanagar,Italian,150.0,3.4,2747
+Restaurant_238,HSR Layout,South Indian,302.14806164250444,3.5,2125
+Restaurant_239,Indiranagar,South Indian,531.3134978065124,3.3,3117
+Restaurant_240,BTM Layout,Italian,759.1318675737919,3.1,900
+Restaurant_241,BTM Layout,South Indian,931.180657164193,3.3,466
+Restaurant_242,Whitefield,Italian,495.989665396287,3.0,2133
+Restaurant_243,Koramangala,Italian,815.3683675669774,,1803
+Restaurant_244,Koramangala,Continental,485.6159736763371,3.2,1297
+Restaurant_245,HSR Layout,North Indian,535.9687689528181,3.7,2011
+Restaurant_246,Whitefield,Italian,257.6686161031222,,1087
+Restaurant_247,BTM Layout,Chinese,426.8683638611835,3.7,3188
+Restaurant_248,Jayanagar,Fast Food,276.91038803428324,3.9,1597
+Restaurant_249,Whitefield,North Indian,408.44436145793355,2.7,1031
+Restaurant_250,HSR Layout,North Indian,1118.774628812744,3.7,2294
+Restaurant_251,HSR Layout,North Indian,417.71038890881994,4.1,793
+Restaurant_252,Whitefield,Continental,1671.3337226930867,3.0,2746
+Restaurant_253,HSR Layout,Italian,,4.3,1834
+Restaurant_254,Whitefield,Continental,814.6926432932058,3.7,2668
+Restaurant_255,Indiranagar,Italian,449.57477693657523,3.2,2446
+Restaurant_256,Whitefield,Continental,995.108457793147,3.5,1221
+Restaurant_257,Whitefield,Continental,548.5267608167792,3.8,1470
+Restaurant_258,HSR Layout,Fast Food,792.7034351258765,3.6,2776
+Restaurant_259,HSR Layout,Chinese,1646.029588394078,3.8,326
+Restaurant_260,Koramangala,Continental,716.3790350963725,3.1,798
+Restaurant_261,Koramangala,Fast Food,1152.2456641999865,3.6,2571
+Restaurant_262,Indiranagar,South Indian,503.8882512059394,2.9,2335
+Restaurant_263,Koramangala,Chinese,737.7540283260635,3.5,27
+Restaurant_264,Whitefield,Continental,1369.7802224724285,3.1,2575
+Restaurant_265,HSR Layout,North Indian,530.5615297742814,3.2,495
+Restaurant_266,Koramangala,South Indian,1384.356995298925,4.1,1340
+Restaurant_267,Koramangala,South Indian,997.7131774094164,4.0,2231
+Restaurant_268,Indiranagar,Fast Food,553.1366284370063,3.8,504
+Restaurant_269,BTM Layout,South Indian,971.3427086694323,3.1,3163
+Restaurant_270,Indiranagar,Chinese,1090.3940573693553,3.4,2634
+Restaurant_271,Whitefield,Continental,967.6334867760188,4.1,924
+Restaurant_272,HSR Layout,Continental,200.42134803834028,3.6,578
+Restaurant_273,Indiranagar,North Indian,495.50198846129604,4.6,1987
+Restaurant_274,Koramangala,Fast Food,663.3684775569734,3.7,2305
+Restaurant_275,HSR Layout,North Indian,723.9482998149838,3.6,1147
+Restaurant_276,HSR Layout,South Indian,967.2352341427372,3.4,1253
+Restaurant_277,Koramangala,North Indian,812.1953503266388,3.6,2621
+Restaurant_278,Indiranagar,Chinese,282.62947445146455,3.5,2895
+Restaurant_279,Koramangala,Continental,883.0692478520871,3.9,487
+Restaurant_280,BTM Layout,South Indian,963.7050108493381,4.0,3359
+Restaurant_281,HSR Layout,North Indian,945.9266567758639,3.2,2453
+Restaurant_282,Jayanagar,Fast Food,1128.2732539441176,3.0,2842
+Restaurant_283,Jayanagar,Chinese,1041.8727540921163,2.7,867
+Restaurant_284,Whitefield,Chinese,910.7130277299528,3.8,2454
+Restaurant_285,Koramangala,North Indian,725.4420009894735,,2944
+Restaurant_286,Koramangala,Continental,168.66367326940303,2.6,278
+Restaurant_287,Whitefield,North Indian,900.366376696405,,302
+Restaurant_288,Whitefield,South Indian,822.6906905070889,4.7,1669
+Restaurant_289,Whitefield,North Indian,845.0525930183807,3.5,1918
+Restaurant_290,HSR Layout,Chinese,,3.9,59
+Restaurant_291,BTM Layout,North Indian,371.6302108571082,,2553
+Restaurant_292,Koramangala,Continental,1118.6034986665163,3.5,2996
+Restaurant_293,HSR Layout,Fast Food,736.1556961501707,4.0,2287
+Restaurant_294,Whitefield,Italian,988.5252440804186,3.4,3220
+Restaurant_295,Koramangala,North Indian,759.9114316456614,3.7,1034
+Restaurant_296,HSR Layout,Continental,760.4146488235108,3.7,3091
+Restaurant_297,BTM Layout,Continental,1078.3993320915993,3.2,632
+Restaurant_298,HSR Layout,Fast Food,569.3843451239192,4.0,2995
+Restaurant_299,BTM Layout,Chinese,783.6422719293441,,1935
+Restaurant_300,Whitefield,Continental,588.2036489532352,3.2,707
+Restaurant_301,BTM Layout,Continental,597.9263203986895,3.8,632
+Restaurant_302,Koramangala,Continental,641.7897567859762,3.1,2327
+Restaurant_303,Whitefield,Continental,827.7468200717994,3.6,3057
+Restaurant_304,Koramangala,South Indian,582.4379824177829,3.5,3033
+Restaurant_305,Jayanagar,South Indian,1189.5146439507323,4.0,2433
+Restaurant_306,Indiranagar,Chinese,436.88744422317365,3.8,1801
+Restaurant_307,BTM Layout,North Indian,684.5949245435244,3.5,1830
+Restaurant_308,Indiranagar,Continental,596.0941296040388,3.9,2611
+Restaurant_309,Indiranagar,Fast Food,1256.4422595238066,4.2,2716
+Restaurant_310,BTM Layout,North Indian,818.7941717790511,3.8,1567
+Restaurant_311,Whitefield,Fast Food,1111.1455888140222,1.1,1950
+Restaurant_312,Jayanagar,North Indian,230.0538694370598,3.0,2881
+Restaurant_313,Koramangala,Chinese,843.4675930542406,3.1,3107
+Restaurant_314,HSR Layout,Continental,1061.3707784682028,3.4,1172
+Restaurant_315,Koramangala,Continental,778.7993962463985,3.3,594
+Restaurant_316,HSR Layout,Italian,1122.9181312728729,3.5,3200
+Restaurant_317,Koramangala,Fast Food,568.9490424648698,3.6,1930
+Restaurant_318,BTM Layout,North Indian,1243.271604064953,3.8,1032
+Restaurant_319,Jayanagar,North Indian,1554.6143432667377,3.5,689
+Restaurant_320,HSR Layout,South Indian,623.0065038461194,3.8,288
+Restaurant_321,Whitefield,Italian,594.0741175097298,3.6,3253
+Restaurant_322,Koramangala,South Indian,1258.6845669911954,2.7,1303
+Restaurant_323,Koramangala,South Indian,1302.8502510057492,3.1,943
+Restaurant_324,HSR Layout,South Indian,566.9989904963561,3.5,1145
+Restaurant_325,Whitefield,Fast Food,602.9346140164499,3.0,1549
+Restaurant_326,Whitefield,Fast Food,651.3753868988225,3.8,1778
+Restaurant_327,BTM Layout,Chinese,279.442321138003,4.2,1614
+Restaurant_328,BTM Layout,Chinese,428.47181873053063,4.1,266
+Restaurant_329,BTM Layout,South Indian,398.5507316367762,3.5,1580
+Restaurant_330,BTM Layout,Italian,481.27085221355503,4.2,2198
+Restaurant_331,BTM Layout,North Indian,737.8602894146265,3.6,2420
+Restaurant_332,BTM Layout,Fast Food,831.9751563877822,3.4,2263
+Restaurant_333,Jayanagar,Italian,1292.6751724849269,3.3,1959
+Restaurant_334,Whitefield,Continental,400.5760857414232,3.4,949
+Restaurant_335,BTM Layout,Fast Food,1094.5128394668043,3.4,3473
+Restaurant_336,Whitefield,Fast Food,675.1039045210719,3.6,3089
+Restaurant_337,Whitefield,Chinese,732.6877016216484,3.6,2712
+Restaurant_338,Indiranagar,North Indian,986.1868222583113,3.6,246
+Restaurant_339,Jayanagar,North Indian,357.0472924531955,3.7,2768
+Restaurant_340,BTM Layout,Continental,883.8434111644177,4.1,284
+Restaurant_341,Koramangala,Continental,808.2582728745697,4.0,1415
+Restaurant_342,HSR Layout,Fast Food,922.3579424028521,2.9,1477
+Restaurant_343,Koramangala,South Indian,851.2090253677363,2.4,665
+Restaurant_344,Jayanagar,Chinese,1609.355048968813,4.0,2278
+Restaurant_345,HSR Layout,Chinese,526.7910055120394,2.9,3468
+Restaurant_346,Jayanagar,Fast Food,564.1510657493639,3.4,1438
+Restaurant_347,Whitefield,Italian,531.9008157513324,3.0,1493
+Restaurant_348,HSR Layout,South Indian,555.5830082939109,2.7,3010
+Restaurant_349,Whitefield,Fast Food,526.9145054427188,3.8,1407
+Restaurant_350,Koramangala,South Indian,1166.155785887643,3.9,1919
+Restaurant_351,Koramangala,South Indian,1247.1764867964491,3.3,2524
+Restaurant_352,HSR Layout,South Indian,550.2387971876833,,2792
+Restaurant_353,HSR Layout,Fast Food,458.67554941351995,3.3,1269
+Restaurant_354,BTM Layout,Chinese,914.9954447352414,3.7,1001
+Restaurant_355,Jayanagar,Chinese,556.72193450166,2.9,1174
+Restaurant_356,BTM Layout,South Indian,971.5261362144288,3.6,607
+Restaurant_357,Jayanagar,Italian,821.0230572979549,3.5,495
+Restaurant_358,BTM Layout,North Indian,219.48955975096885,3.8,1841
+Restaurant_359,Whitefield,Fast Food,1291.6268204655216,3.6,1005
+Restaurant_360,HSR Layout,North Indian,1378.5571855834326,3.1,3368
+Restaurant_361,Koramangala,Italian,535.5239583304649,4.1,2223
+Restaurant_362,Jayanagar,Fast Food,614.3044540224055,3.5,1261
+Restaurant_363,Jayanagar,South Indian,850.0528867537167,3.5,209
+Restaurant_364,Koramangala,Chinese,867.0598764954588,3.1,1460
+Restaurant_365,BTM Layout,North Indian,980.4904954354906,3.4,1000
+Restaurant_366,Jayanagar,Continental,1453.5715885682225,3.2,1718
+Restaurant_367,Whitefield,Continental,688.0684703770827,3.5,1735
+Restaurant_368,HSR Layout,Italian,470.5959644115412,4.3,2613
+Restaurant_369,Koramangala,South Indian,267.23827019491546,2.9,60
+Restaurant_370,HSR Layout,North Indian,494.17448602032835,2.8,2374
+Restaurant_371,Jayanagar,South Indian,738.405559494171,4.2,962
+Restaurant_372,Jayanagar,North Indian,1378.0952522312257,3.5,357
+Restaurant_373,Koramangala,Italian,568.83604533734,3.2,1357
+Restaurant_374,Whitefield,Italian,828.3257830736145,4.0,1118
+Restaurant_375,Indiranagar,Continental,744.2519863745367,3.3,3020
+Restaurant_376,Koramangala,South Indian,1165.9376457068295,4.4,2346
+Restaurant_377,Indiranagar,Fast Food,1634.4263490557676,3.9,3267
+Restaurant_378,BTM Layout,Continental,564.1959294778878,3.3,915
+Restaurant_379,Indiranagar,South Indian,578.6961951186222,4.5,2340
+Restaurant_380,Whitefield,Continental,1115.4563069741753,3.3,2904
+Restaurant_381,BTM Layout,Fast Food,,3.9,2687
+Restaurant_382,Indiranagar,Chinese,1396.3475640076117,3.7,1694
+Restaurant_383,BTM Layout,Chinese,954.3748648640874,4.1,2929
+Restaurant_384,Indiranagar,Chinese,624.2477682245292,4.3,950
+Restaurant_385,Whitefield,Chinese,956.7291907423082,3.6,308
+Restaurant_386,Indiranagar,North Indian,1138.0462532040178,3.2,743
+Restaurant_387,Indiranagar,Chinese,1037.1687634190775,3.8,2960
+Restaurant_388,Indiranagar,Fast Food,927.5459108875542,3.2,2339
+Restaurant_389,Koramangala,Italian,1123.3361413562038,4.5,1973
+Restaurant_390,Koramangala,Italian,1159.2534566559855,3.6,1109
+Restaurant_391,Koramangala,North Indian,1233.7556468631346,3.4,502
+Restaurant_392,Whitefield,Chinese,977.0484606563749,3.6,955
+Restaurant_393,BTM Layout,Chinese,691.5086718891009,2.9,2315
+Restaurant_394,Jayanagar,Chinese,801.349790251663,3.1,175
+Restaurant_395,Indiranagar,Continental,1172.2781382779249,4.1,1090
+Restaurant_396,Indiranagar,South Indian,8200.0,3.3,1978
+Restaurant_397,Whitefield,Continental,879.0356581055154,3.1,2521
+Restaurant_398,Indiranagar,South Indian,612.3314156854237,3.8,2268
+Restaurant_399,Koramangala,Chinese,760.0606880271861,4.1,1703
+Restaurant_400,Jayanagar,Chinese,1197.4581519125545,3.9,143
+Restaurant_401,HSR Layout,Continental,816.8846738069661,4.0,2068
+Restaurant_402,Indiranagar,Continental,766.2527918546521,3.2,987
+Restaurant_403,Koramangala,South Indian,274.0503506570283,2.9,874
+Restaurant_404,HSR Layout,Italian,1011.1887481095273,4.2,659
+Restaurant_405,Jayanagar,South Indian,975.9194633993764,3.4,2258
+Restaurant_406,HSR Layout,Continental,1507.139153156911,3.4,1622
+Restaurant_407,Koramangala,Fast Food,642.2776177664497,4.1,2583
+Restaurant_408,BTM Layout,Continental,826.7026146823787,3.8,461
+Restaurant_409,BTM Layout,Fast Food,837.2842892987643,3.8,1964
+Restaurant_410,HSR Layout,North Indian,1302.1086479172159,4.5,1858
+Restaurant_411,Whitefield,Continental,716.6465636645668,3.3,1849
+Restaurant_412,HSR Layout,North Indian,847.6575340196188,4.0,2210
+Restaurant_413,Indiranagar,Italian,962.7637784007887,3.6,3282
+Restaurant_414,Indiranagar,South Indian,815.3131931047253,3.7,552
+Restaurant_415,BTM Layout,Fast Food,593.7482349073151,4.2,2294
+Restaurant_416,Whitefield,South Indian,817.9314975144076,3.8,1356
+Restaurant_417,Koramangala,North Indian,1125.77111245092,3.8,968
+Restaurant_418,Indiranagar,Fast Food,390.7196452061289,4.0,3393
+Restaurant_419,BTM Layout,South Indian,796.5393859514066,3.4,2039
+Restaurant_420,Jayanagar,Continental,504.9577147712894,3.2,479
+Restaurant_421,BTM Layout,Chinese,1168.2663201236949,3.1,3492
+Restaurant_422,Indiranagar,North Indian,216.88458332567882,,570
+Restaurant_423,Indiranagar,South Indian,554.3773534549441,4.5,412
+Restaurant_424,BTM Layout,North Indian,882.0241562725823,3.1,1807
+Restaurant_425,Koramangala,North Indian,1297.933410232019,3.5,864
+Restaurant_426,HSR Layout,Fast Food,726.9874086244542,3.4,3298
+Restaurant_427,Indiranagar,Fast Food,555.6801656573806,3.7,2277
+Restaurant_428,BTM Layout,Chinese,1408.4049743042065,3.9,1158
+Restaurant_429,BTM Layout,Continental,243.19513485431457,3.9,665
+Restaurant_430,Whitefield,North Indian,150.0,3.3,3342
+Restaurant_431,HSR Layout,South Indian,904.0050575186664,3.5,2286
+Restaurant_432,Jayanagar,Italian,574.2810214765861,3.7,2474
+Restaurant_433,Koramangala,North Indian,,3.4,1486
+Restaurant_434,Jayanagar,North Indian,997.9247565547737,4.3,1397
+Restaurant_435,HSR Layout,Chinese,835.3302498199196,3.8,2955
+Restaurant_436,HSR Layout,Continental,552.572479242145,,2625
+Restaurant_437,HSR Layout,Italian,301.89346046518693,3.8,2617
+Restaurant_438,Jayanagar,Fast Food,1055.3600648980505,4.1,161
+Restaurant_439,HSR Layout,Fast Food,977.5704122855313,3.6,2679
+Restaurant_440,BTM Layout,South Indian,715.288447677216,3.0,520
+Restaurant_441,Jayanagar,Italian,1396.3229486166829,3.7,859
+Restaurant_442,HSR Layout,Fast Food,375.4703317858466,3.3,2769
+Restaurant_443,BTM Layout,South Indian,216.06619017634137,3.3,1702
+Restaurant_444,Whitefield,Continental,507.8321755415644,3.8,1585
+Restaurant_445,HSR Layout,South Indian,734.0448942755758,4.1,2066
+Restaurant_446,Jayanagar,Fast Food,835.1688072629421,3.6,1550
+Restaurant_447,Indiranagar,Chinese,665.5673797502845,3.7,615
+Restaurant_448,HSR Layout,Chinese,873.2193887800039,4.3,1924
+Restaurant_449,Indiranagar,Chinese,311.9612015333446,3.7,300
+Restaurant_450,BTM Layout,Fast Food,1255.3176114256407,4.7,443
+Restaurant_451,Whitefield,Chinese,721.2470875626009,3.8,2923
+Restaurant_452,Koramangala,Italian,1141.0535410558446,2.8,289
+Restaurant_453,Whitefield,Continental,869.9538712321964,3.9,173
+Restaurant_454,HSR Layout,South Indian,909.8636267038244,3.7,2681
+Restaurant_455,Indiranagar,South Indian,949.4185480812714,4.1,1770
+Restaurant_456,Indiranagar,Fast Food,906.6979960060603,3.9,681
+Restaurant_457,Jayanagar,Chinese,974.9529659536404,3.5,1987
+Restaurant_458,Indiranagar,Chinese,1215.203385546351,3.0,102
+Restaurant_459,Jayanagar,North Indian,818.7824093955146,3.5,3014
+Restaurant_460,BTM Layout,Continental,998.1513151559793,3.2,2966
+Restaurant_461,Koramangala,Italian,,3.3,1469
+Restaurant_462,HSR Layout,South Indian,1254.0410254073154,3.8,1318
+Restaurant_463,Jayanagar,North Indian,513.2626942792556,4.3,2351
+Restaurant_464,Koramangala,North Indian,1380.3291515187855,3.7,999
+Restaurant_465,Indiranagar,Fast Food,735.9447172744798,3.0,2240
+Restaurant_466,Indiranagar,South Indian,249.22871425868317,3.8,3418
+Restaurant_467,Koramangala,Fast Food,794.8365452187762,4.1,3154
+Restaurant_468,Indiranagar,Italian,511.63191988379174,3.3,3164
+Restaurant_469,BTM Layout,North Indian,1044.2252421460535,3.5,2830
+Restaurant_470,BTM Layout,North Indian,521.5816072441633,3.6,1679
+Restaurant_471,Koramangala,Continental,593.8357983748272,3.2,1418
+Restaurant_472,Jayanagar,Italian,150.0,3.8,652
+Restaurant_473,Jayanagar,North Indian,591.6927882628231,3.5,1551
+Restaurant_474,Koramangala,Italian,150.0,3.7,806
+Restaurant_475,Jayanagar,South Indian,195.63401177999685,3.2,3010
+Restaurant_476,Jayanagar,Chinese,1016.145129650504,3.4,3079
+Restaurant_477,BTM Layout,North Indian,1025.0300555277913,3.9,417
+Restaurant_478,Jayanagar,Continental,898.9101466247376,3.4,1163
+Restaurant_479,Whitefield,South Indian,411.55834990477547,4.3,953
+Restaurant_480,HSR Layout,Italian,733.3010253503071,3.4,1480
+Restaurant_481,Indiranagar,Fast Food,748.7391113183011,3.7,1872
+Restaurant_482,Whitefield,South Indian,344.57235878261,4.0,2743
+Restaurant_483,Jayanagar,North Indian,1276.1894056185029,2.9,3003
+Restaurant_484,BTM Layout,Italian,1057.076801701485,2.8,2532
+Restaurant_485,Koramangala,Chinese,672.6625391596176,2.9,305
+Restaurant_486,Jayanagar,South Indian,759.4100436480858,4.1,284
+Restaurant_487,BTM Layout,North Indian,822.9339827816434,3.3,2387
+Restaurant_488,HSR Layout,Continental,150.0,4.7,2740
+Restaurant_489,Jayanagar,Fast Food,663.4879161177911,3.3,3467
+Restaurant_490,Koramangala,Italian,511.3055132007705,3.6,2887
+Restaurant_491,BTM Layout,South Indian,399.43299653677957,4.2,2156
+Restaurant_492,BTM Layout,South Indian,651.6148974899158,4.5,1697
+Restaurant_493,BTM Layout,Chinese,1379.190284397333,4.5,1246
+Restaurant_494,HSR Layout,Chinese,974.2950014434534,4.1,840
+Restaurant_495,Jayanagar,Continental,550.0873535760211,4.0,1782
+Restaurant_496,HSR Layout,Fast Food,950.4039734746555,3.8,3068
+Restaurant_497,Indiranagar,Continental,1239.7744028051006,3.9,2401
+Restaurant_498,Indiranagar,North Indian,1073.6217890194691,3.3,2289
+Restaurant_499,Jayanagar,North Indian,770.870629472061,3.2,60
+Restaurant_500,HSR Layout,Continental,523.5721278030492,3.5,1751
